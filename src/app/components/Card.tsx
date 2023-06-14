@@ -39,10 +39,10 @@ export const httpLink = (uri?: Maybe<string>) => {
 
 
 export default function Card({ player }) {
-  const image = useRef(null)
+  const image = useRef<SVGSVGElement>(null)
 
   const download = () => {
-    console.log({ i: image.current.outerHTML })
+    console.log({ i: image.current?.outerHTML })
   }
 
   return (
