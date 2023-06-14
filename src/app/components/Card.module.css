@@ -1,0 +1,12 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 10svw;
+  max-height: 16svw;
+  margin-block-end: 1rem;
+
+  & button {
+    margin: auto;
+    font-size: 3rem;
+  }
+}
