@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ipld/unixfs": "^2.1.1",
     "@types/node": "20.3.1",
     "@types/react": "18.2.12",
     "@types/react-dom": "18.2.5",
+    "browser-readablestream-to-it": "^2.0.3",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.5",
+    "ipfs-car": "^1.0.0",
+    "ipfs-unixfs-importer": "^15.1.7",
     "multiformats": "^11.0.2",
     "next": "13.4.5",
     "postcss-preset-env": "^8.5.0",

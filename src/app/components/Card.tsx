@@ -2,7 +2,8 @@
 
 import { CID } from 'multiformats/cid'
 import styles from './Card.module.css'
-import { useRef } from 'react';
+import { forwardRef } from 'react'
+import type { Player } from '../page'
 
 export type Maybe<T> = T | null
 export const IPFS_LINK_PATTERN = 'https://w3s.link/ipfs/{cid}/{path}';
@@ -13,7 +14,7 @@ export const httpLink = (uri?: Maybe<string>) => {
 
   try {
     if (origCID) {
-      const cid = new CID(origCID);
+      const cid = CID.parse(origCID);
 
       let v0CID = '';
       try {
@@ -22,7 +23,7 @@ export const httpLink = (uri?: Maybe<string>) => {
 
       let v1CID = '';
       try {
-        v1CID = cid.toV1().toString('base32');
+        v1CID = cid.toV1().toString();
       } catch {}
 
       const pattern = IPFS_LINK_PATTERN;
@@ -38,35 +39,34 @@ export const httpLink = (uri?: Maybe<string>) => {
 };
 
 
-export default function Card({ player }) {
-  const image = useRef<SVGSVGElement>(null)
-
-  const download = () => {
-    console.log({ i: image.current?.outerHTML })
+export const Card = forwardRef<SVGSVGElement, { player: Player }>(
+  ({ player }, ref) => {
+    return (
+      <section className={styles.card}>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 250 400"
+          {...{ ref }}
+        >
+          <defs>
+            <style>{`
+              text {
+                fill: red;
+                text-anchor: middle;
+              }
+            `}</style>
+          </defs>
+          <image
+            width="250" height="250"
+            href={httpLink(player.profile.profileImageURL)}
+          />
+          <text x="125" y="275">{player.profile.name}</text>
+        </svg>
+      </section>
+    )
   }
+)
 
-  return (
-    <section className={styles.card}>
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 250 400"
-        ref={image}
-      >
-        <defs>
-          <style>{`
-            text {
-              fill: red;
-              text-anchor: middle;
-            }
-          `}</style>
-        </defs>
-        <image
-          width="250" height="250"
-          href={httpLink(player.profile.profileImageURL)}
-        />
-        <text x="125" y="275">{player.profile.name}</text>
-      </svg>
-      <button onClick={download}>↯</button>
-    </section>
-  )
-}
+Card.displayName = 'Card'
+
+export default Card
