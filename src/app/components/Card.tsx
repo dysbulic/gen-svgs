@@ -40,7 +40,7 @@ export const httpLink = (uri?: Maybe<string>) => {
 
 
 export const Card = forwardRef<SVGSVGElement, { player: Player }>(
-  ({ player }, ref) => {
+  ({ player: { profile, ethereumAddress } }, ref) => {
     return (
       <section className={styles.card}>
         <svg
@@ -58,9 +58,15 @@ export const Card = forwardRef<SVGSVGElement, { player: Player }>(
           </defs>
           <image
             width="250" height="250"
-            href={httpLink(player.profile.profileImageURL)}
+            href={profile.profileImageURL ? (
+              httpLink(profile.profileImageURL)
+            ) : (
+              `https://robohash.org/${ethereumAddress}`
+            )}
           />
-          <text x="125" y="275">{player.profile.name}</text>
+          <text x="125" y="275">
+            { profile.name ?? profile.username ?? '𝕌𝕟𝕜𝕟𝕠𝕨𝕟'}
+          </text>
         </svg>
       </section>
     )

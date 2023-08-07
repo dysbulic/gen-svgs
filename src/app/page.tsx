@@ -1,7 +1,7 @@
 "use client"
 
 import styles from './page.module.css'
-import dump from '../../public/players.001–010.2023⁄06⁄13@23:55.json'
+import dump from '../../public/MetaFam Players.2023⁄08⁄07@13:47ᴇᴛ.json'
 import Card, { Maybe } from './components/Card'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { importer } from 'ipfs-unixfs-importer'
@@ -18,7 +18,7 @@ type NamedContent = {
 }
 
 class MapBlockStore {
-  store = new Map<CID, Uint8Array>()
+  private store = new Map<CID, Uint8Array>()
 
   constructor () {}
   * blocks() {
@@ -27,7 +27,8 @@ class MapBlockStore {
     }
   }
   put(cid: CID, bytes: Uint8Array) {
-    return Promise.resolve(this.store.set(cid, bytes))
+    this.store.set(cid, bytes)
+    return Promise.resolve(cid)
   }
   get(cid: CID) {
     return Promise.resolve(this.store.get(cid))
@@ -49,7 +50,6 @@ export async function svgsToCarIterator(
     })
   })
   const options = {
-    cidVersion: 1,
     wrapWithDirectory: true,
     rawLeaves: true,
     onProgress: function () { console.debug({ onProgress: arguments }) },
@@ -83,6 +83,7 @@ export default function Home() {
     useState<Array<NamedContent>>([])
   )
   const { data: { player: players } } = dump
+  const [paused, setPaused] = useState(false)
 
   useEffect(() => {
     if(genIdx < players.length) {
@@ -91,6 +92,7 @@ export default function Home() {
         const name = (
           players[genIdx].profile.name
           ?? players[genIdx].profile.username
+          ?? players[genIdx].ethereumAddress
         )
         setImages((imgs: Array<NamedContent>) => (
           [...imgs, { name, content: img }]
@@ -106,16 +108,18 @@ export default function Home() {
       await new Promise((resolve) => {
         timeoutId = setTimeout(resolve, 1500)
       })
-      setViewIdx((i: number) => {
-        const val = (i + 1) % (Math.max(1, images.length))
-        console.debug({ i, img: images.length, val })
-        return val
-      })
+      if(!paused) {
+        setViewIdx((i: number) => {
+          const val = (i + 1) % (Math.max(1, images.length))
+          console.debug({ i, img: images.length, val })
+          return val
+        })
+      }
     }
     next()
 
     return () => { timeoutId != null && clearTimeout(timeoutId) }
-  }, [images.length, viewIdx])
+  }, [images.length, paused, viewIdx])
 
   const car = useCallback(async () => {
     if(link.current) {
@@ -141,7 +145,9 @@ export default function Home() {
     <main className={styles.main}>
       <aside>View Idx: {viewIdx} / Images Length: {images.length}</aside>
       {viewIdx < images.length && (
-        parse(images[viewIdx].content)
+        <div className="img" onClick={() => setPaused((p) => !p)}>
+          {parse(images[viewIdx].content)}
+        </div>
       )}
       {genIdx < players.length ? (
         <Card player={players[genIdx]} ref={image}/>
