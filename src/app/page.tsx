@@ -96,7 +96,7 @@ export default function Home() {
           ?? players[genIdx].ethereumAddress
         )
         setImages((imgs: Array<NamedContent>) => (
-          [...imgs, { name, content: img }]
+          [...imgs, { name: `${name}.svg`, content: img }]
         ))
       }
       setGenIdx((i: number) => i + 1)
