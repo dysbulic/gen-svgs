@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "gh:pub": "next build && next export && gh-pages -d dist/ -m 'deploy gh-pages'"
   },
   "dependencies": {
     "@ipld/unixfs": "^2.1.1",

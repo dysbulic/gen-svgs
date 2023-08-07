@@ -1,0 +1,3018 @@
+{
+  "data": {
+    "player": [
+      {
+        "ethereumAddress": "0x28cd26d85b4ac655a489aa3f259f81283bd1a804",
+        "totalXP": 639.4415480610604,
+        "seasonXP": 320.7916839915333,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeihju3tnaaukx7fs6ovz6x3qbcajw3zit7r2ky5glsdz4pqdo3x5du/profile/profilepic.jpg",
+          "name": "rika",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "WRITER"
+          },
+          {
+            "rank": 1,
+            "role": "PATRON"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "rikagoldberg",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "rikagoldberg628",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x28Cd26d85b4ac655A489Aa3f259F81283BD1A804",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+        "totalXP": 44.61702374988187,
+        "seasonXP": 2.311627250937222e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "scottrepreneur",
+          "username": "scottrepreneur",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "scottrepreneur",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x68d36DcBDD7Bbf206e27134F28103abE7cf972df",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x1256e7992564ab22e332532472c916bd8d1e1ca7",
+        "totalXP": 75.77502261349028,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://Qmersbcxu4W3s69X9RmLD3CvxCos4eBWUJDZTjqunAxnRo",
+          "name": "Vandal",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x1256E7992564AB22e332532472c916Bd8D1e1Ca7",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x21c9aba2392dd5e15ce74bf9c8685ac4907b5fab",
+        "totalXP": 411.5996442328367,
+        "seasonXP": 1.0692272682290887e-36,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "pronoia",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Pronoia42",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Pronoia42",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x21c9aba2392dD5e15CE74BF9C8685aC4907B5Fab",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xd595634abf15938db7c1ca7e8923651434379faf",
+        "totalXP": 595.5023899746142,
+        "seasonXP": 0.9986769223130768,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "shep",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "shep101",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "shep",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xD595634abf15938Db7C1CA7E8923651434379fAf",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe5eda1eabfc23075d010927bd0111e8e36c33def",
+        "totalXP": 464.95564206029775,
+        "seasonXP": 1.089776387351884e-15,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xe5eDa1eabfC23075D010927bd0111E8E36C33Def",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "malikvprice",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x5ea7ea516720a8f59c9d245e2e98bca0b6df7441",
+        "totalXP": 98.52210087144084,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmYp1iLqqYBshjAVwGntiteWJjGzMf3r7iuCK3tSEFXTVu",
+          "name": "PlayWith.eth",
+          "username": "playwith-eth",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "mikeki",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "PlayWithEth",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x5ea7ea516720a8F59C9d245E2E98bCA0B6DF7441",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x767e47a828ae99a511029d2f3db50fe8c3d6964e",
+        "totalXP": 34.0648984052004,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmVB218Jusdrfqw5VyWjbkZDhLWKypvZg367MH6GeH59Sc",
+          "name": "Nemo",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "ncerovac",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "ncerovac",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x767E47A828ae99a511029D2f3Db50FE8C3d6964E",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x20efcd9b9ade8bd586f840c83a6d8dd8c1d6623b",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "taekikz",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x187089B33E5812310Ed32A57F53B3fAD0383a19D",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "0x20EFCd9B9ADe8bd586f840c83A6d8dd8C1D6623B",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xcebd2dd19c911761674bc2344dced8ec8148d19f",
+        "totalXP": 67.37634247369968,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "patrick727",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Patrick727",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xceBd2Dd19c911761674BC2344DceD8EC8148D19f",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+        "totalXP": 1542.1665604837053,
+        "seasonXP": 8.776229251762677e-15,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Vanilladelphia",
+          "username": "vanilladelphia",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Vanilladelphia.eth",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Vanilladelphia",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "edmcveigh",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "ethtard",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xDA5b2cd0d0Bb26E79FB3210233dDABdB7de131C9",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x7b035331967075a168471dfbd23ed977f048f61e",
+        "totalXP": 2603.7142167204825,
+        "seasonXP": 0.7272052328960141,
+        "profile": {
+          "profileImageURL": null,
+          "name": "tenfinney",
+          "username": "tenfinney",
+          "backgroundImageURL": "ipfs://bafybeiaxvvdybh4qsvfh6pk5ci3e6wmit3hfbybgdwehfldo2hvz4yqgfi/background.jpg"
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "tenfinney",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "tenfinney",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "tenfinney",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x7b035331967075a168471dfbd23ed977f048f61e",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "0x7B035331967075a168471DfBD23eD977f048f61E",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xfbc56be13c23c18b6864d062e413da3c7e0f74fb",
+        "totalXP": 43.580563814216205,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmUZqwYkF5iZrcoeyeBtR1PQvqeKoTeoRCE2bD4S3Hc1ep",
+          "name": "Pab",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xFBC56Be13C23c18B6864D062e413da3c7e0f74Fb",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x9eec0b5bd8a48047f0dcc61e98b4b92951480f98",
+        "totalXP": 790.6158552254229,
+        "seasonXP": 2.379656167984989e-10,
+        "profile": {
+          "profileImageURL": "ipfs://QmV7GbLjP5kPoLxaQBZ21WzZmBmtZ6wfNq4fEkxPMraQZk",
+          "name": "mlibty",
+          "username": "mlibty",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "ARTIST"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0x9eEC0B5Bd8A48047f0Dcc61E98B4b92951480F98",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4accdfd779e8fa60a3686030a6eb36d663399e13",
+        "totalXP": 412.46164000836336,
+        "seasonXP": 10.325286178268861,
+        "profile": {
+          "profileImageURL": "ipfs://QmSLwBkZFzBWw9Fq8zsCFkLr1xXXgx8U4KLLoyay7BLSaL",
+          "name": "TYMED",
+          "username": "trademark",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "INNKEEPER"
+          },
+          {
+            "rank": 1,
+            "role": "ARTIST"
+          },
+          {
+            "rank": 2,
+            "role": "PATRON"
+          },
+          {
+            "rank": 3,
+            "role": "SHILLER"
+          },
+          {
+            "rank": 4,
+            "role": "WRITER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x4accdfd779e8fa60a3686030a6eb36d663399e13",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "Disciple-TYMED",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Jcauley",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x4accdfd779E8FA60A3686030A6Eb36D663399E13",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x28ede9352a5f76daec81cfc65d7246f6665f5fa3",
+        "totalXP": 151.45829433471744,
+        "seasonXP": 4.972744358933137e-8,
+        "profile": {
+          "profileImageURL": null,
+          "name": "thebeyondr",
+          "username": "thebeyondr",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "BUILDER"
+          },
+          {
+            "rank": 1,
+            "role": "DESIGNER"
+          },
+          {
+            "rank": 2,
+            "role": "WRITER"
+          },
+          {
+            "rank": 3,
+            "role": "ARTIST"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0x28EDE9352a5f76Daec81cfC65d7246f6665f5fA3",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "thebeyondr",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xa68e0b444e7f5242e48cea2447fce03cb7b8ad16",
+        "totalXP": 1182.0087433480921,
+        "seasonXP": 0.00003573418622352688,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "defilezebra",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "defileZebra",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xA68E0b444E7F5242e48Cea2447FcE03Cb7B8AD16",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "plasmacorral",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+        "totalXP": 3448.4568044630464,
+        "seasonXP": 220.25101612152213,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Musashi13",
+          "username": "musashi13",
+          "backgroundImageURL": "ipfs://bafybeigkc53i2x4rdwmzywwl75ci7wtdr2enmoxd7f5tyauuuxj3gl7mwe/background/gotchifarmin.png"
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "ARTIST"
+          },
+          {
+            "rank": 1,
+            "role": "BUILDER"
+          },
+          {
+            "rank": 2,
+            "role": "DESIGNER"
+          },
+          {
+            "rank": 3,
+            "role": "INNKEEPER"
+          },
+          {
+            "rank": 4,
+            "role": "SHILLER"
+          },
+          {
+            "rank": 5,
+            "role": "WRITER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0x2Bf034ecCEbc8CD60Dab9c249b6c2996Dcb7D8EC",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Musashi13",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Musashi13",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "musashi13",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xeab44dd5e7e1c9dbbe3eb6ebc121c3cdd0cc3579",
+        "totalXP": 2170.3634785140002,
+        "seasonXP": 0.017334702462912195,
+        "profile": {
+          "profileImageURL": null,
+          "name": "FearlessThompson",
+          "username": "fearlessthompson",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xeAb44dd5e7E1C9dbbe3Eb6Ebc121C3CDD0CC3579",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0xeab44dd5e7e1c9dbbe3eb6ebc121c3cdd0cc3579",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "FearlessThompson",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "FearlessThompson",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xf6f32d231b517d32b98ce03464c2a7c272bdb272",
+        "totalXP": 2102.5486162071425,
+        "seasonXP": 1.0419539956450436e-15,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Unipuff 🜐",
+          "username": "unipuff",
+          "backgroundImageURL": "ipfs://bafybeibyyh7oqtykha6f462xhsf4vhzlqxi2fqlk5mmtgetzhi5gl6wxfm/background/30cb83cfcc1ef9cc618459af1b015cb1-mushroom-cultivation-agar.jpg"
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "WRITER"
+          },
+          {
+            "rank": 1,
+            "role": "ARTIST"
+          },
+          {
+            "rank": 2,
+            "role": "SHILLER"
+          },
+          {
+            "rank": 3,
+            "role": "INNKEEPER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "P_V_F",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "SmHermes",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "pvblick-vniversal-friend",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0xf6f32d231b517D32b98Ce03464C2A7c272BdB272",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x8e4bdd156e4dd802dd919f4fd2645681ce99a538",
+        "totalXP": 6108.302382555034,
+        "seasonXP": 17.377385877283274,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeibdtqdxkhb42ee4v4s557mpt6ujygdiew2pzwbtovkfw4kdmy6m3i/profile.png",
+          "name": "misanth",
+          "username": "misanth",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x8e4bdd156e4dd802dd919f4fd2645681ce99a538",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "Misanth",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x8e4Bdd156e4dD802dd919F4FD2645681CE99a538",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Misanth420",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x3a3355805181ba5752cb52cebe8c95c0f3ed3d61",
+        "totalXP": 0.42047474592081274,
+        "seasonXP": 3.2336997868349993e-16,
+        "profile": {
+          "profileImageURL": "ipfs://QmSq6Wp8bGPJ1fH9oE4jpKf6j4Dmswbw1CVuGr3iWkBVyW",
+          "name": "BruceTheGoose",
+          "username": "brucethegoose-eth",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x3a3355805181ba5752cB52CEBE8C95c0F3ED3d61",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x29185eb8cfd22aa719529217bfbade61677e0ad2",
+        "totalXP": 2641.4531185897254,
+        "seasonXP": 517.9734752913326,
+        "profile": {
+          "profileImageURL": "ipfs://QmdSmw1VMx87wv3S5ZgYNUsyT1hJHocuMctnDuakit8YwB",
+          "name": "joseacabrerav",
+          "username": "joseacabrerav",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "ARTIST"
+          },
+          {
+            "rank": 1,
+            "role": "INNKEEPER"
+          },
+          {
+            "rank": 2,
+            "role": "SHILLER"
+          },
+          {
+            "rank": 3,
+            "role": "WRITER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0x29185eB8cfD22Aa719529217bFbadE61677e0Ad2",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x2410d50ba4993c1fe13b3db0bcdae51b1c617d0a",
+        "totalXP": 150.66658494337275,
+        "seasonXP": 1.91257010010272e-7,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Nitegeist",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x2410D50Ba4993c1FE13B3DB0BcDaE51B1c617d0a",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "nitegeist",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x509fdabab2c609dfd1230c3c36e859779ed97fed",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": "ipfs://QmWH1cUy4d7XHizD9MxomSPnHkZXFLnfAmvjVgCXq54TCT",
+          "name": "Damjan",
+          "username": "damjan-discord",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x4c4d724ae26C40e042875F142938153E68656d21",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "0x509FDAbAb2C609dfD1230c3C36E859779Ed97FEd",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "phys3",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x98753e5f9cd76b46cbd95bf16d166faee1a7720b",
+        "totalXP": 162.97325324723778,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x98753E5f9Cd76B46cbD95Bf16D166FAeE1a7720B",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x3f0f99ec5a55a51c55e2dfb732332437213b5650",
+        "totalXP": 129.75203596359475,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmNV2MV86wdT1FThZQdiAMBqWEivAJvqsxLWLsGLr5Wvnr",
+          "name": "Sad Birds Club",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x3F0F99eC5A55a51C55e2DFb732332437213B5650",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xfacef700458d4fc9746f7f3e0d37b462711ff09e",
+        "totalXP": 4219.834751824922,
+        "seasonXP": 4.4750324290722325,
+        "profile": {
+          "profileImageURL": "ipfs://QmNefNAFiFByVpVZrvQosQ8H8AbUVoYL4WME8PWjgWWHTJ",
+          "name": "penguin",
+          "username": "penguin",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "c0mput3rxz",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "c0mput3rxz",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "c0mput3rxz",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xfaCEf700458D4Fc9746F7f3e0d37B462711fF09e",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x701d0ecb3ba780de7b2b36789aec4493a426010a",
+        "totalXP": 1571.581350590602,
+        "seasonXP": 1.2227222570519034,
+        "profile": {
+          "profileImageURL": "ipfs://QmVZ5P2jRNr7anMSAbsgurp1fSCAmUNgLiskKGGbCU4rmp",
+          "name": "Kay",
+          "username": "geleeroyale",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "geleeroyale",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "geleeroyale",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x091fcbb9186f392610740038ea5b8007fe7674e4",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": "𝐬𝐳𝐚𝐛𝐨𝟎𝐠𝐞𝐧𝐢𝐞",
+          "username": "b0gie",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "b0gie",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "mcjb0gie",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "jb0gie",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x091fCbB9186f392610740038Ea5b8007fE7674e4",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4059457092cc3812d56676df6a75fd21204fbe2f",
+        "totalXP": 231.2392675611895,
+        "seasonXP": 2.311627324109936e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmXh3wdgYTGWGiPJ6SyTwuVc84wtR1BSA3grc3y6hnYwXi",
+          "name": "ben.oxmo",
+          "username": "benoxmo",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "benoxmo",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "benoxmo",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x4059457092Cc3812d56676DF6A75fD21204Fbe2F",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x0b5f5a722ac5e8ecedf4da39a656fe5f1e76b34c",
+        "totalXP": 389.93595862798236,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "jp",
+          "username": "jonathanp",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x0B5f5a722Ac5E8EcEDf4da39A656fe5f1e76b34C",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "jonathan_p",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "jonathanprozzi",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x67d4eac3e2bb453ba5561553d169a65df06b56a1",
+        "totalXP": 13.652807594640498,
+        "seasonXP": 2.311627431351421e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x67d4eAC3E2bb453bA5561553d169A65DF06b56a1",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xca6bd9152bd92f6a8e5c991fcc53b24ca6ee470b",
+        "totalXP": 87.80022301699891,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xCa6bD9152bD92F6A8E5c991fCc53b24Ca6ee470b",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe64d3f087d26c7d153e2286c2beea76fe0a5397d",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": "DaveDave",
+          "username": "daveth",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "DESIGNER"
+          },
+          {
+            "rank": 1,
+            "role": "PATRON"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0xe64d3F087D26C7d153e2286c2BeEA76FE0A5397D",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "davort",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x1785C69390f5B4F329e22c5BD8BBF7a596e4ab09",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "0xC97910dB17BcCd90C3Ca38d2E0aD8DAc58d6B554",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Davor",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xEA4594Ad49A7d3eEE3470CFb3Fde52E9FddA3529",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xc33290860c1da6a84195c5cf1575860d3a3ed73d",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Δυσ-compromised",
+          "username": "dysbulic-compromised",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "dysbulic",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x615b044B6Ccb048532bcF99AAdf619d7fdD2Aa01",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "dysbulic",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xC33290860C1DA6a84195C5cf1575860d3A3ED73d",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xc9a238405ef9d753d55ec1eb8f7a7b17b8d83e63",
+        "totalXP": 75.87861780161036,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Huxwell",
+          "username": "huxwell",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xC9a238405ef9D753D55EC1EB8F7A7b17B8d83E63",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Cali93",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+        "totalXP": 5419.6821113197075,
+        "seasonXP": 34.39443435872789,
+        "profile": {
+          "profileImageURL": null,
+          "name": "tommy,",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "0x2A8fe25896fCcE82C49c2Db923aBFA4198Ad3394",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "tommy",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "tommycomma",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xf3b1b6e83be4d55695f1d30ac3d307d9d5ca98ff",
+        "totalXP": 469.78372222480675,
+        "seasonXP": 2.0325165930741763e-19,
+        "profile": {
+          "profileImageURL": "ipfs://QmXnofpXDdZZhQi93FXefHGUefc17vpSwgQDzPDTknS1kA",
+          "name": "DeFi Dude",
+          "username": "defidude",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "DeFiDude",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "defidude",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xf3B1B6e83Be4d55695f1D30ac3D307D9D5CA98ff",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x3f20a6fe04b3a4b37bbbbea826ae23be56baed74",
+        "totalXP": 333.4734620613465,
+        "seasonXP": 1.6901076583753987,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeifkyx3h4r5npawad3dllagerz4hcirju64jd6b7tceos3k43iz64a/profile/IMG_3459.JPG",
+          "name": "Maxwe11",
+          "username": "maxwe11",
+          "backgroundImageURL": "ipfs://bafybeide3u2ngc5sbrfsws6graixq3q7xapnmnqsed7drawol32keyxqai/background/Maxwe11_None_478d0d88-e725-4ba1-9ac7-da777ec67412.png"
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "PATRON"
+          },
+          {
+            "rank": 1,
+            "role": "BUILDER"
+          },
+          {
+            "rank": 2,
+            "role": "INNKEEPER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "Maxwe11",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x3F20a6fE04b3A4b37bBBBea826ae23be56Baed74",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "cmaxwe11",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x54becc7560a7be76d72ed76a1f5fee6c5a2a7ab6",
+        "totalXP": 6.079293611633885,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmbxAKt2hwdRaWe1NBMBdwSX1X7YdwfvmxgLxN3esvRqSy",
+          "name": "Simona Pop",
+          "username": "simona",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x54BeCc7560a7Be76d72ED76a1f5fee6C5a2A7Ab6",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xc222face875a344846ccd489c57c401046790d98",
+        "totalXP": 112.95764140665851,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xc222FACE875a344846Ccd489c57C401046790D98",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4cbf20d7393f372d7947338336b5043081871116",
+        "totalXP": 2596.67835526346,
+        "seasonXP": 94.35120277924202,
+        "profile": {
+          "profileImageURL": "ipfs://QmQhJAr1yhMP1g8hgL9QS4KX1B4wCVoQ44Zh32aYVGfZ2m",
+          "name": "Polimyl",
+          "username": "polimyl",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "polimyl",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "polimyl",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x4cBf20D7393f372D7947338336b5043081871116",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x6c379474d8ac313676945a4a7a3a1c590eec0995",
+        "totalXP": 27.669416004122606,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "djedhi-discord",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x6c379474d8ac313676945a4a7a3a1c590eeC0995",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xa82bcd1ba56b4bb0f46bc29da53413c73be27509",
+        "totalXP": 3150.1908671660726,
+        "seasonXP": 210.26733979020923,
+        "profile": {
+          "profileImageURL": null,
+          "name": "eowulia",
+          "username": "eowulia",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xA82BcD1BA56b4BB0f46Bc29dA53413c73Be27509",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x1df428833f2c9fb1ef098754e5d710432450d706",
+        "totalXP": 153.7375332810639,
+        "seasonXP": 1.3653389375691555e-15,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeigibkpaue5ktmzalmy2g75dtm66yce4m6hyyae3cb6z4df6w3bgje/profile/0xjoshua pfp.jpg",
+          "name": "0xJoshua",
+          "username": "0xjoshua",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x1dF428833f2C9FB1eF098754e5D710432450d706",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x47a9a2fe26f9ec391cfc6b44f0a104c75f6bbc71",
+        "totalXP": 1524.3413890757715,
+        "seasonXP": 3.30736328135036,
+        "profile": {
+          "profileImageURL": "ipfs://QmTowgporriUdHcqXhFYZG9db8xZZqZCHEtVfA2LKFseLU",
+          "name": "Bacon",
+          "username": "bacon",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Baconaetor",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "Bacon",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x47a9A2FE26f9eC391cfc6B44F0a104c75f6bBC71",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x79b92357bb57a449394a877ba673bdc00194e274",
+        "totalXP": 17.380565138957653,
+        "seasonXP": 2.3118487791043827e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "blairv",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x79b92357bB57a449394A877bA673BdC00194E274",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x9315d886ea870f47e1619743df8c6e46b3704a42",
+        "totalXP": 305.5217800150285,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "calvbore",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "calvbore",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "calvbore",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x9315D886eA870f47E1619743Df8c6e46b3704A42",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x0bb44da1a16b44956b2523b23667989c23c0195a",
+        "totalXP": 10.027103807266684,
+        "seasonXP": 0.00020141117199590634,
+        "profile": {
+          "profileImageURL": "ipfs://QmSfuWhk8MpQDAJUW4qGGYkuXfLMpYVyhXgVTDwqz5n9Js",
+          "name": "googoomuck",
+          "username": "googoomuck",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x0bB44DA1A16B44956b2523b23667989C23c0195A",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "googoomuck8",
+            "type": "TWITTER"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x7b39afdb75fd542bd7104cdea462f9773a63855d",
+        "totalXP": 40.50625297755557,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "magnus",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "magnus",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x7b39AFdB75Fd542BD7104cDea462f9773A63855D",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x9d93f4d0f99c94801eab57b7114b834eacfa4bd8",
+        "totalXP": 1.9097189068694191,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "kn00t",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x9d93f4d0F99c94801EAb57B7114B834EAcfa4bD8",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x0751b77e8acaeffad53667c72aa7ce66688d8c61",
+        "totalXP": 1600.9519746657584,
+        "seasonXP": 2.4067162411999324e-30,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "bagholdermcfomoiii",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Bagholder_McFomo_III",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "BagholderMcFomoIII",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x0751B77E8AcAEffAD53667c72AA7CE66688d8c61",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x756ee8b8e898d497043c2320d9909f1dd5a7077f",
+        "totalXP": 5.05409660568871,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x756ee8B8E898D497043c2320d9909f1DD5a7077F",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x492c52a72104d3ffab2885f257b4d2ebd97338ee",
+        "totalXP": 364.03962444058266,
+        "seasonXP": 3.056315995025725,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeic7lzuv7rgdh2rpnofaucln5j3wlsquibpx76v3h4vcwkb6lvorq4/profile.png",
+          "name": "crisleash",
+          "username": "cris_leash",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "DESIGNER"
+          },
+          {
+            "rank": 1,
+            "role": "INNKEEPER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "CrisLeash",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x492C52A72104d3fFAb2885f257b4D2ebD97338eE",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x408e68023e12bfc7d29ca7d3656395d3de0749e0",
+        "totalXP": 198.69424991876238,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "sho",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x408E68023E12bfc7d29Ca7d3656395d3dE0749e0",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xed8db37778804a913670d9367aaf4f043aad938b",
+        "totalXP": 52.90220996714118,
+        "seasonXP": 0.002160181375531161,
+        "profile": {
+          "profileImageURL": "ipfs://QmQyUTCx9TaP8pharnputUWJ8EmyMRGWiPkrc1ZuZNd4PL",
+          "name": "WhyldWanderer",
+          "username": "whyldwanderer",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xed8DB37778804A913670d9367aAf4F043AAd938b",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "WhyldWanderer",
+            "type": "DISCOURSE"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xdd505da2e2a8017f38a715948c6b6a2922ba27f0",
+        "totalXP": 257.3827639286018,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmedxRkL9j4Y1jcnfibrkcGktzp5858sBTKFoLqDEoDcLi",
+          "name": "vyvy-vi",
+          "username": "vyvy_vi",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xdD505DA2e2A8017f38a715948c6b6A2922ba27f0",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Vyvy-vi",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4f4fe578482dccdde80d724817ac091a417c0874",
+        "totalXP": 6.27441682397245e-42,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x4F4Fe578482DcCDdE80D724817aC091A417c0874",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xaa01dec5307cf17f20881a3286dcaa062578cea7",
+        "totalXP": 18.349963285102383,
+        "seasonXP": 2.311627252301657e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "philh.p2p.eth",
+          "username": "philh",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "philh",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "philh",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "PhilH",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "phil_h",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xAa01DeC5307CF17F20881A3286dcaA062578cea7",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x139f73c185953b2443d2d57f0522569736e8d81a",
+        "totalXP": 466.2177132504531,
+        "seasonXP": 1.46949229338266e-14,
+        "profile": {
+          "profileImageURL": "ipfs://QmUFWqEbFwaN7jGu5eEbs24JxYBnY5FbWUsfhLj5fiRwNm",
+          "name": "Rankko.eth",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Rankko.eth",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Techniciann9ne",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x139f73C185953B2443d2D57f0522569736E8d81A",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "@Techniciann9neR",
+            "type": "TWITTER"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x352ca2026033ea95ebcd198d5f922184820d514f",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x352ca2026033eA95EBcd198D5F922184820D514F",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xec952ed8e7c2aa466cac36fd611d2e87df1243d7",
+        "totalXP": 341.78161817302856,
+        "seasonXP": 12.2703873276153,
+        "profile": {
+          "profileImageURL": "ipfs://QmUYzp6btzzaqKBdQaFeKzCxHHWj9Qk84mEmPD9SFXSchd",
+          "name": "Kris",
+          "username": "kris",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "krisjpi",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0xeC952ED8e7c2AA466cac36fD611D2E87Df1243D7",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "krisj_official",
+            "type": "TWITTER"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe8256119a8621a6ba3c42e807b261840bde77944",
+        "totalXP": 215.07194511625752,
+        "seasonXP": 2.0403289743167507e-23,
+        "profile": {
+          "profileImageURL": "ipfs://QmPuuV4TPLHuvK3cDjRJ66Zc8We4jJDCezmeUHD6A8wcL5",
+          "name": "JayWelsh",
+          "username": "jaywelsh",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "JayWelsh",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0xE8256119A8621a6Ba3c42e807B261840bDe77944",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xd8c7ea3e87a04c26de0a1cd21117cf8595a59a46",
+        "totalXP": 63.469314385752895,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xD8c7ea3E87A04c26DE0a1Cd21117cf8595a59a46",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4c81e51aa103490838fd9db1d859a5fcd8276324",
+        "totalXP": 7092.6661727294595,
+        "seasonXP": 242.63465601748385,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeigpdcom523fso3a7lcgclbrhhc3kapsizlf5o2h65quf3y4bpdlsq/profile/gravatar.jpeg",
+          "name": "alec",
+          "username": "alec",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "BUILDER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0x4c81E51aa103490838Fd9Db1D859a5Fcd8276324",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "0xD5823AB44Db9a0659027f0FEA428534B9C13015B",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "alec",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "alalonde",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x31483a93c879c9dcf85899f61b521e1e5b520b69",
+        "totalXP": 2.550001634226179,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmQR2828dvmeTrEVcnXDAsoerQszCHyXVXxS4EudYv15X7",
+          "name": "JB",
+          "username": "jb",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x31483A93c879c9DCF85899f61b521E1e5b520b69",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x9583648c314cdf666f4f555299db3b36f5d5b2f9",
+        "totalXP": 73.46930340641654,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmQpKiXpuQWURBA3ij9SgB7QP36ZYdXm1QtFRWEUPmJyYK",
+          "name": "Lucas Cerro",
+          "username": "max",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "lucascerro",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x9583648c314CDF666F4F555299dB3B36f5d5b2f9",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "lucascerro",
+            "type": "TWITTER"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xbca02edebb39e215d1896a11a5c9bfb0e6a22795",
+        "totalXP": 79.4458803099627,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmahuTj8KGx1ByarWundAEzBxFLNp12UWC4GfqGyMiM11z",
+          "name": "AtHeartEngineer",
+          "username": "atheartengineer",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xbCa02EDeBb39e215d1896a11A5c9BFB0e6A22795",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "AtHeartEngineer",
+            "type": "TWITTER"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x152ad2e12e102abf64280c5e3d70257effb0ede0",
+        "totalXP": 165.5576737096363,
+        "seasonXP": 0.010292746010680422,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeiddc4t3w5bhq3ptht7dpj3cswsrta4qj4jm3dzeggcwovbwmxssze/profile/greenGalMage.png",
+          "name": "Magenta Ceiba",
+          "username": "magenta",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "magentaceiba",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x152ad2E12E102aBF64280C5e3d70257EFfb0EDe0",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xed2aeaeac44036a35e36ccd7397d44ea70bdd73e",
+        "totalXP": 470.20027906281837,
+        "seasonXP": 1.093195340500129,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "cami",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xEd2AEaEAC44036A35e36cCd7397D44ea70BDd73e",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "CamiArias",
+            "type": "DISCOURSE"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x069e85d4f1010dd961897dc8c095fbb5ff297434",
+        "totalXP": 56.90113711904775,
+        "seasonXP": 9.549775234215214e-21,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "dunks411",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "dunks411",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x069e85D4F1010DD961897dC8C095FBB5FF297434",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x9fe5829435eb70d4a3c51f8df130f6aad3475efa",
+        "totalXP": 53.19645509218128,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "jojobizare",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x9fE5829435eB70d4a3C51f8Df130f6AAD3475Efa",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x91d999f5dc7273df1449e0d02fd70432e7ce9b24",
+        "totalXP": 1188.172845274118,
+        "seasonXP": 2.311627972227057e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "mprime",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "mprimi",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "mprime",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x91D999f5DC7273df1449e0D02fD70432E7cE9b24",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xb90139b5f5c73321943fb19cdab8563886faeed2",
+        "totalXP": 194.10611046241166,
+        "seasonXP": 1.867477563511488e-20,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "manu",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xb90139b5f5c73321943Fb19cDab8563886fAEed2",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x8af8035d9ba1b046cf0f26631f37a714e9abdc09",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "tomballs",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "tommymaher15",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x8Af8035d9ba1B046CF0F26631f37a714e9ABDc09",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "0x01024669997BAa689532555Be139d8D1685f9EAC",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x7b86f576669f8d20a8244dabefc65b31d7deb3f2",
+        "totalXP": 186.72594182560846,
+        "seasonXP": 0.0013522960907842996,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeihvfmomestapu6rar2j5ijk47govhx6bcz5px6l23nmtbu76foqna/profile/skull_guy.jpg",
+          "name": "0xmaker",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x7b86F576669f8d20a8244dABEFc65b31d7dEB3f2",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "kon-rad",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x1e9c89aff77215f3ad26bffe0c50d4fdeba6a352",
+        "totalXP": 6277.031426773798,
+        "seasonXP": 28.15597223204758,
+        "profile": {
+          "profileImageURL": "ipfs://QmVUB4A9bsd5GX8SDo8zWKGgAJcn2E7U5suRQw3gWboSdn",
+          "name": "dan13ram",
+          "username": "dan13ram",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "BUILDER"
+          },
+          {
+            "rank": 1,
+            "role": "ARTIST"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "dan13ram",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "dan13ram",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "dan13ram",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x1e9c89aFf77215F3AD26bFfe0C50d4FdEBa6a352",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x8f942eced007bd3976927b7958b50df126feecb5",
+        "totalXP": 10657.755665378098,
+        "seasonXP": 4.9054986815465146e-29,
+        "profile": {
+          "profileImageURL": null,
+          "name": "META_DREAMER",
+          "username": "metadreamer",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "PATRON"
+          },
+          {
+            "rank": 1,
+            "role": "BUILDER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "hammadj",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "METADREAMER",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "META_DREAMER",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "META-DREAMER",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x8F942ECED007bD3976927B7958B50Df126FEeCb5",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x26489976f21c323164116c6cbb1ff537f17b4c5b",
+        "totalXP": 6.035536041373065,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "eris",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x26489976F21c323164116C6cbB1Ff537F17b4C5b",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xdf290293c4a4d6ebe38fd7085d7721041f927e0a",
+        "totalXP": 912.2199257614864,
+        "seasonXP": 2.379271392153421e-41,
+        "profile": {
+          "profileImageURL": "ipfs://QmWgZURp5ZXWCJscKo28HkcGF3HNzqDdfY4cMK9mNAbZhr",
+          "name": "Zargham",
+          "username": "mz",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "mzargham",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "mzargham",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "mzargham",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xDF290293C4A4d6eBe38Fd7085d7721041f927E0a",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x6ed7f81208839e31e11840049201201c469a7a56",
+        "totalXP": 1.9807506486830386,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Ninja0x",
+          "username": "crypt0xninja",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Crypt0xNinja",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x6ED7F81208839E31E11840049201201C469a7A56",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x1426fbd146942e153653863cbe633780c17268da",
+        "totalXP": 764.9196798201729,
+        "seasonXP": 3.0067241475213704,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Lahcen KH",
+          "username": "charingane",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "L-KH",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x1426FBd146942e153653863cbe633780c17268DA",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "lahcen_kha",
+            "type": "TWITTER"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+        "totalXP": 33.68141388549677,
+        "seasonXP": 1.6849287663736723,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Santiago Gonzalez",
+          "username": "santteegt",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "santteegt",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x224aBa5D489675a7bD3CE07786FAda466b46FA0F",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "santteegt",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x6d97d65adff6771b31671443a6b9512104312d3d",
+        "totalXP": 832.7266034562595,
+        "seasonXP": 1.133592571435367e-7,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Marko Prljic",
+          "username": "markop",
+          "backgroundImageURL": "ipfs://bafybeibcoesjqk2m56oojcgtswizr2tlq2nbecaijeoo5bmd7urkchrkfq/background/BG.png"
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "markoprljic",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "markop",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x6D97d65aDfF6771b31671443a6b9512104312d3D",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4c1546b2d87ece5be3429df8d5f7987ce3c2fd45",
+        "totalXP": 410.0301740339711,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x4c1546B2D87eCE5Be3429df8d5F7987CE3C2fD45",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x78ec73423b222cb225549bab0d0a812d58808ffd",
+        "totalXP": 9171.574002219011,
+        "seasonXP": 17.227901762902906,
+        "profile": {
+          "profileImageURL": "ipfs://QmU4oJs1WJgchSGyxQp2QxkEn6H25fiCnFBxjnRb8hxmhz",
+          "name": "luxumbra.eth",
+          "username": "luxumbra",
+          "backgroundImageURL": "ipfs://bafybeidbokbg2f5lyduwpfukgvow574mqprdneru3f4df6xylrw7jlucgq/background/mg-smoke-particles4.jpg"
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "BUILDER"
+          },
+          {
+            "rank": 1,
+            "role": "ARTIST"
+          },
+          {
+            "rank": 2,
+            "role": "INNKEEPER"
+          },
+          {
+            "rank": 3,
+            "role": "DESIGNER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "luxumbra.eth",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "luxumbra",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x78ec73423b222cb225549bab0d0a812d58808ffd",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "luxumbra",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "bdgrdev",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x78Ec73423B222cB225549bab0d0a812d58808Ffd",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xd3e9d60e4e4de615124d5239219f32946d10151d",
+        "totalXP": 63.95994172688726,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmbMk4z4fhpf91iRiv1dpQ42g1eQQgk36pw3zBp2YAeQR1",
+          "name": "Alex Masmej",
+          "username": "alexmasmej",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "alexmasmej",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "alexmasmej",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xD3e9D60e4E4De615124D5239219F32946d10151D",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x09d07aec655032f6d05482999b6b7f683e80568b",
+        "totalXP": 186.1946740768519,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "blakehun",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "blake-hunsicker",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x09d07AeC655032f6d05482999b6b7f683E80568B",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x89bf9baaee2d451477cf850fe4c0d89bb796b1ad",
+        "totalXP": 4868.4330803689,
+        "seasonXP": 38.73875628677858,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeigmvyivgcdqroab3c4gee73db3dbdohuwalq6mr2u6q2d5b3r5qpi/profile/MALA PIKICA.2 profipng.png",
+          "name": "vid",
+          "username": "vid",
+          "backgroundImageURL": "ipfs://bafybeifzuudqq3s4pxhavttwemwgbpn6yvfepu2b7aka4zxmy3mackuvxa/background/tinypinkkitten (1).png"
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "BUILDER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x89bf9baaee2d451477cf850fe4c0d89bb796b1ad",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "0x89bf9BAaeE2d451477CF850fE4c0d89bb796B1aD",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "viiiiiid1",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "vidvidvid",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x81A8C4Dca0E33c8a46023cc017FFE5938541b0fF",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe372cf77187e27b15805803cf331f6b7330f223b",
+        "totalXP": 126.99892339042604,
+        "seasonXP": 1.4690335088001565,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "katerinabc",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xE372cf77187E27B15805803Cf331f6b7330F223b",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "katerinabc",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x6bc842966e4de1733644905f8f0b10ad4aa0c000",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xa76fA3B5dfD0bE1e6BdcaeC9167a7Ab4c7536881",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "0x6Bc842966e4dE1733644905f8F0b10Ad4AA0C000",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Gnomeski",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Gnomeski",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x710e2f9d630516d3afdd053de584f1fa421e84bc",
+        "totalXP": 439.00007615579176,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://Qma8bhnuvnSmybHmJcnrjp25X8bLDkEyBsiCi3xgVX2Wqp",
+          "name": "Polina",
+          "username": "polycarp",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Polycarp",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "Polycarpik",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x710E2f9D630516d3aFDd053De584F1fa421e84bC",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x2beba030cdc9c4a47c5aa657974840428b9fefac",
+        "totalXP": 382.7257220991632,
+        "seasonXP": 5.1001323184667724e-17,
+        "profile": {
+          "profileImageURL": null,
+          "name": "nicolaslaw.eth",
+          "username": "nicolaslaw",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "nicolas-law",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "nicolas_lyw",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x2bEBa030cdC9c4a47c5aa657974840428b9fEfAc",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe73a198e7c07c418d7dcfd42f5e953074abbd125",
+        "totalXP": 2109.2927866912396,
+        "seasonXP": 5.562713506025857,
+        "profile": {
+          "profileImageURL": null,
+          "name": "HBesso31",
+          "username": "hbesso31",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "https://meetwithwallet.xyz/hbesso31.eth",
+            "type": "MEETWITHWALLET"
+          },
+          {
+            "identifier": "HBesso31",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "HBesso31",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "HumbertoBesso",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xE73a198e7C07c418D7dcFd42f5E953074aBbD125",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x4052336e4b1a6f05d15a90e8ce8a0a4c4d512243",
+        "totalXP": 19.265756532143843,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "jack-g",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x4052336e4B1a6F05d15a90E8ce8A0A4C4D512243",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x73bea65145f19702da07d8908e994a193b5855a1",
+        "totalXP": 2095.1494529278384,
+        "seasonXP": 425.05422846438313,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "piedrademar",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x73bEA65145F19702DA07d8908E994A193b5855A1",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x759bace429553bca40645da3283de1a105531b11",
+        "totalXP": 850.6565109167848,
+        "seasonXP": 5.790748683539787e-25,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Udit Takkar ",
+          "username": "ud1t",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x759bacE429553bCA40645Da3283de1A105531b11",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "Udit-takkar",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x85a363699c6864248a6ffca66e4a1a5ccf9f5567",
+        "totalXP": 68.27576300326912,
+        "seasonXP": 0.016452206936701273,
+        "profile": {
+          "profileImageURL": "ipfs://QmYqXN9S7FUSohFFKriUXa8nmwUAx4ZmHcWcb8jLKs5GvJ",
+          "name": "Mars",
+          "username": "mars-basex",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x85A363699C6864248a6FfCA66e4a1A5cCf9f5567",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe8adaea0ba507a28d1309051beceb4db7fe377af",
+        "totalXP": 0,
+        "seasonXP": 0,
+        "profile": {
+          "profileImageURL": "ipfs://QmZMmgHz5fES1AMnod18UP8TRoyRwsQTFXiaWcw9XbDJxe",
+          "name": "Hacked Ginelli",
+          "username": "youngkidwarrior",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xa69656dee6721FF43506477Fb522eFef151E4477",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "youngkidwarrior",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "ginelliunit",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xE8aDaeA0bA507a28d1309051BecEb4db7Fe377AF",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x37bd0ae78dd5cd338d6e80b5c87b6f8e38121297",
+        "totalXP": 22.052905410448822,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x37BD0aE78dD5cd338D6E80B5c87B6F8e38121297",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x062f901129158536e6f410a80b631c1f88e4809b",
+        "totalXP": 79.90088858677522,
+        "seasonXP": 3.289114042062977e-31,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x062f901129158536E6F410A80B631C1F88e4809b",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xe0802cf223a05a14408ad44e7f878d21408fb04c",
+        "totalXP": 872.1969510925978,
+        "seasonXP": 36.45274332272944,
+        "profile": {
+          "profileImageURL": "ipfs://QmZ35CiNjbv4SXPRUmtDQjoCVJzGzcUqrv7XVLpJZ147AB",
+          "name": "chair",
+          "username": "chair28980",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xe0802Cf223a05A14408Ad44E7F878d21408Fb04C",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "chair",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "chair28980",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x6432b999375008a597e4165bca665cff6a8a23ca",
+        "totalXP": 15.501433857641889,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x6432b999375008a597e4165bCA665cfF6a8a23Ca",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x6576dcd9f751c99adb07411b22ddda0be7ffe420",
+        "totalXP": 6.27441682397245e-42,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "kangar00",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x6576dcd9F751C99adb07411B22dDda0be7FfE420",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xa95fae5214576913d6cf4bf6df5b5936350e50d9",
+        "totalXP": 104.29062685371838,
+        "seasonXP": 15.843254243853861,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xa95fAe5214576913d6CF4bF6df5b5936350E50d9",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xcf0ebaa2bc9ba3bb8c655fabb26976528d64fcb7",
+        "totalXP": 3147.3064304167333,
+        "seasonXP": 1.4199522483772393e-42,
+        "profile": {
+          "profileImageURL": null,
+          "name": "Michiel",
+          "username": "michiel",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "Michiel",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xcF0eBaA2bC9Ba3bb8c655fABB26976528d64FCB7",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "mquellhorst",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x986e92868a27548a31e88f7692e746cd7e86f39a",
+        "totalXP": 545.5695372367525,
+        "seasonXP": 34.979421228642494,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeici4jh2rco57bmtraikxrig5shiwq4wddqzmtpaizzkwfzozcf3dy/profile/Chippi Apeiron png.png",
+          "name": "apeironcreations",
+          "username": null,
+          "backgroundImageURL": "ipfs://bafybeici4jh2rco57bmtraikxrig5shiwq4wddqzmtpaizzkwfzozcf3dy/background/Owned Dutchtide #4804.jpg"
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "INNKEEPER"
+          },
+          {
+            "rank": 1,
+            "role": "WRITER"
+          },
+          {
+            "rank": 2,
+            "role": "SHILLER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "Apeiron",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x986e92868A27548a31e88f7692E746CD7E86f39a",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x841c11b14c428dd591093348b8afa2652c863988",
+        "totalXP": 2409.9398662261497,
+        "seasonXP": 0.007008372393413123,
+        "profile": {
+          "profileImageURL": "ipfs://QmQLtn1Aig9MWeQAnqN5pCWJJzqo3ZE8Whxxj47p78BF77",
+          "name": "Anna",
+          "username": "annak",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "kaicanna",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x841C11b14c428dd591093348B8Afa2652C863988",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "_Anna",
+            "type": "DISCOURSE"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x590d24003d5ec516502db08e01421ba56a5cd611",
+        "totalXP": 143.49501370029222,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": "drllau",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "drllau",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "drllau",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "0x590D24003D5Ec516502db08E01421ba56a5cd611",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xc316319950bf01e18748ed807c05cbe64d48da6b",
+        "totalXP": 138.74253861746763,
+        "seasonXP": 2.3116272509374047e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": null,
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0xC316319950bf01E18748Ed807c05cBe64d48DA6b",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x7326b0d5ba05bb1db17298a0283ab1d3269adeb2",
+        "totalXP": 1414.1344116341909,
+        "seasonXP": 49.85035875338586,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeif7yneulz5wm2an7uun52qm5vjcaojqzrwdv27no5mog3oo2bozti/profile/HHH-discord-2.png",
+          "name": "HHH",
+          "username": "hhh",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "WRITER"
+          },
+          {
+            "rank": 1,
+            "role": "BUILDER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "0x7326B0D5Ba05bB1db17298A0283aB1D3269adEB2",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "hhh-gh",
+            "type": "GITHUB"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x7a3bf9b823eb96f8f0777437ec01d0082182c2af",
+        "totalXP": 4.056205223904907,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": null,
+          "name": "0x7a",
+          "username": null,
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "0x7A3bF9B823eB96F8f0777437Ec01D0082182C2AF",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xc46c67bb7e84490d7ebdd0b8ecdaca68cf3823f4",
+        "totalXP": 487.8745989896853,
+        "seasonXP": 3.8775145178345745e-18,
+        "profile": {
+          "profileImageURL": "ipfs://QmVqinrUzevQEAFsPfhCE9UZn9eF3QnNWHWAa1ksbi3r3j",
+          "name": "Lauren",
+          "username": "karmaticacid",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "laurenluz",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "karmaticacid",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0xC46c67Bb7E84490D7EbdD0b8ecDaca68Cf3823F4",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x44bf6f5b5a5884e748fc87e10ddc4b6eb3c027c7",
+        "totalXP": 244.8743613208439,
+        "seasonXP": 2.3116272509372127e-43,
+        "profile": {
+          "profileImageURL": "ipfs://QmRa74Hz1xopDMDrkET7KHui47oMgAwDS1FkVKEmTAM3jA",
+          "name": "Gunnar",
+          "username": "alibyte",
+          "backgroundImageURL": null
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "alibyte",
+            "type": "TWITTER"
+          },
+          {
+            "identifier": "0x44BF6F5b5A5884E748fc87E10ddC4b6eB3c027C7",
+            "type": "ETHEREUM"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0x140d3f60ac840571a3e08e218b823094d4715564",
+        "totalXP": 582.4753062469572,
+        "seasonXP": 341.50386447864923,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeigo6dzlt5yxpkcy3u2fsllrimmn6skwv6jmmu7wzpnyvzlzkp5kcu/profile/kohv4punk.png",
+          "name": "koH",
+          "username": "koh",
+          "backgroundImageURL": null
+        },
+        "roles": [
+          {
+            "rank": 0,
+            "role": "INNKEEPER"
+          },
+          {
+            "rank": 1,
+            "role": "SHILLER"
+          }
+        ],
+        "accounts": [
+          {
+            "identifier": "koH",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0x140D3f60AC840571a3e08e218B823094d4715564",
+            "type": "ETHEREUM"
+          },
+          {
+            "identifier": "https://meetwithwallet.xyz/address/0x140d3f60ac840571a3e08e218b823094d4715564",
+            "type": "MEETWITHWALLET"
+          }
+        ]
+      },
+      {
+        "ethereumAddress": "0xb53b0255895c4f9e3a185e484e5b674bccfbc076",
+        "totalXP": 23354.58723130244,
+        "seasonXP": 113.6085655000675,
+        "profile": {
+          "profileImageURL": "ipfs://bafybeihlkzzmazx56uxfum6crgfdq3cdc4b4g2oshzedb4gux6r2dgseza/profile/peth - MetaGame.png",
+          "name": "pΞTH  🐙",
+          "username": "peth",
+          "backgroundImageURL": "ipfs://bafybeihrsosfmbb6lxwgo46qvu2wwnocps2blwkosfg4micnpa7jj27hti/background/new stefan octo smol.png"
+        },
+        "roles": [],
+        "accounts": [
+          {
+            "identifier": "peth-yursick",
+            "type": "GITHUB"
+          },
+          {
+            "identifier": "peth",
+            "type": "DISCOURSE"
+          },
+          {
+            "identifier": "0xB53b0255895c4F9E3a185E484e5B674bCCfbc076",
+            "type": "ETHEREUM"
+          }
+        ]
+      }
+    ]
+  }
+}

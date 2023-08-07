@@ -9,6 +9,7 @@ import toIt from 'browser-readablestream-to-it'
 import { CarWriter } from '@ipld/car/writer'
 import { CID } from 'multiformats/cid'
 import parse from 'html-react-parser'
+import { MTime } from '@ipld/unixfs/src/unixfs'
 
 export type Player = typeof dump.data.player[0]
 type File = typeof File
@@ -35,7 +36,7 @@ class MapBlockStore {
   }
 }
 
-export async function svgsToCarIterator(
+async function svgsToCarIterator(
   svgs: Array<NamedContent>, blockAPI = new MapBlockStore()
 )  {
   const entries = svgs.map((svg) => {
