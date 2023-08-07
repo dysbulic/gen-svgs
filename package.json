@@ -16,6 +16,7 @@
     "browser-readablestream-to-it": "^2.0.3",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.5",
+    "html-react-parser": "^4.2.0",
     "ipfs-car": "^1.0.0",
     "ipfs-unixfs-importer": "^15.1.7",
     "multiformats": "^11.0.2",

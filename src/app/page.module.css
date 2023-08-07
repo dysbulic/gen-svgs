@@ -1,6 +1,14 @@
 .main {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  place-items: center;
 
   height: 100svh;
+
+  & button {
+    padding: 1rem 2rem;
+  }
+
+  & > svg {
+    height: 40vh;
+  }
 }

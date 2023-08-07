@@ -2,16 +2,23 @@
 
 import styles from './page.module.css'
 import dump from '../../public/players.001–010.2023⁄06⁄13@23:55.json'
-import Card from './components/Card'
+import Card, { Maybe } from './components/Card'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { importer } from 'ipfs-unixfs-importer'
 import toIt from 'browser-readablestream-to-it'
 import { CarWriter } from '@ipld/car/writer'
+import { CID } from 'multiformats/cid'
+import parse from 'html-react-parser'
 
 export type Player = typeof dump.data.player[0]
+type File = typeof File
+type NamedContent = {
+  name: string
+  content: string
+}
 
 class MapBlockStore {
-  store = new Map()
+  store = new Map<CID, Uint8Array>()
 
   constructor () {}
   * blocks() {
@@ -19,34 +26,40 @@ class MapBlockStore {
       yield { cid, bytes }
     }
   }
-  put({ cid, bytes }: { cid: string, bytes: Uint8Array }) {
+  put(cid: CID, bytes: Uint8Array) {
     return Promise.resolve(this.store.set(cid, bytes))
   }
-  get(cid: string) {
+  get(cid: CID) {
     return Promise.resolve(this.store.get(cid))
   }
 }
 
-export async function filesToCarIterator(
-  files: Array<File>, blockApi = new MapBlockStore()
+export async function svgsToCarIterator(
+  svgs: Array<NamedContent>, blockAPI = new MapBlockStore()
 )  {
-  const entries = files.map((file) => ({
-    path: `/${file.name}`,
-    content: toIt(file.stream()),
-  }))
+  const entries = svgs.map((svg) => {
+    const file = new File(
+      [svg.content], svg.name, { type: 'image/svg+xml' },
+    )
+    return ({
+      path: file.name,
+      content: toIt(file.stream()),
+      // mtime: new Date().getTime(),
+      mode: 0o666,
+    })
+  })
   const options = {
     cidVersion: 1,
     wrapWithDirectory: true,
-    rawLeaves: true
+    rawLeaves: true,
+    onProgress: function () { console.debug({ onProgress: arguments }) },
   }
   const fsEntries = []
   for await (const entry of importer(
-    entries, blockApi, options
+    entries, blockAPI, options
   )) {
     fsEntries.push(entry)
   }
-
-  console.info({ entries, fsEntries })
 
   if(fsEntries.length === 0) {
     throw new Error('No files found.')
@@ -54,7 +67,7 @@ export async function filesToCarIterator(
 
   const root = fsEntries.at(-1)!.cid
   const { writer, out } = CarWriter.create(root)
-  for (const block of blockApi.blocks()) {
+  for(const block of blockAPI.blocks()) {
     writer.put(block)
   }
   writer.close()
@@ -64,33 +77,51 @@ export async function filesToCarIterator(
 export default function Home() {
   const image = useRef<SVGSVGElement>(null)
   const link = useRef<HTMLAnchorElement>(null)
-  const [idx, setIdx] = useState(0)
-  const [images, setImages] = useState<Array<File>>([])
+  const [genIdx, setGenIdx] = useState(0)
+  const [viewIdx, setViewIdx] = useState(0)
+  const [images, setImages] = (
+    useState<Array<NamedContent>>([])
+  )
   const { data: { player: players } } = dump
 
-  type File = typeof File
+  useEffect(() => {
+    if(genIdx < players.length) {
+      const img = image.current?.outerHTML
+      if(img) {
+        const name = (
+          players[genIdx].profile.name
+          ?? players[genIdx].profile.username
+        )
+        setImages((imgs: Array<NamedContent>) => (
+          [...imgs, { name, content: img }]
+        ))
+      }
+      setGenIdx((i: number) => i + 1)
+    }
+  }, [genIdx, players, players.length])
 
   useEffect(() => {
-    const img = image.current?.outerHTML
-    if(img && idx < players.length) {
-      const name = (
-        players[idx].profile.name
-        ?? players[idx].profile.username
-      )
-      setImages((imgs: Array<File>) => (
-        [...imgs, new File(
-          [img], name, { type: 'image/svg+xml' }
-        ) as unknown as File]
-      ))
-      setIdx((i: number) => i + 1)
+    let timeoutId: Maybe<NodeJS.Timeout> = null
+    const next = async () => {
+      await new Promise((resolve) => {
+        timeoutId = setTimeout(resolve, 1500)
+      })
+      setViewIdx((i: number) => {
+        const val = (i + 1) % (Math.max(1, images.length))
+        console.debug({ i, img: images.length, val })
+        return val
+      })
     }
-  }, [idx, players, players.length])
+    next()
+
+    return () => { timeoutId != null && clearTimeout(timeoutId) }
+  }, [images.length, viewIdx])
 
   const car = useCallback(async () => {
     if(link.current) {
-      const outname = 'PlayerImages.car'
+      const outname = `${players.length} Player Images.car`
       const carParts = []
-      const { root, out } = await filesToCarIterator(images)
+      const { out } = await svgsToCarIterator(images)
       for await (const chunk of out) {
         carParts.push(chunk)
       }
@@ -99,21 +130,21 @@ export default function Home() {
       )
       const url = URL.createObjectURL(car)
 
-      console.info({ root: root.toString(), out, url, carParts })
-
       link.current.href = url
       link.current.download = outname
       link.current.click()
-      URL.revokeObjectURL(url)
+      // URL.revokeObjectURL(url)
     }
-  }, [images])
-
-  console.info({ images })
+  }, [images, players.length])
 
   return (
     <main className={styles.main}>
-      {idx < players.length ? (
-        <Card player={players[idx]} ref={image}/>
+      <aside>View Idx: {viewIdx} / Images Length: {images.length}</aside>
+      {viewIdx < images.length && (
+        parse(images[viewIdx].content)
+      )}
+      {genIdx < players.length ? (
+        <Card player={players[genIdx]} ref={image}/>
       ) : (
         <button onClick={car}>Download CAR</button>
       )}
