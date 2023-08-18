@@ -1,0 +1,4211 @@
+{
+  "data": {
+    "player": [
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": null,
+          "description": "Full-time DAO contributor, focusing on Strategy & Writing. ",
+          "name": "rika",
+          "profileImageURL": "ipfs://bafybeihju3tnaaukx7fs6ovz6x3qbcajw3zit7r2ky5glsdz4pqdo3x5du/profile/profilepic.jpg",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x28cd26d85b4ac655a489aa3f259f81283bd1a804",
+        "daos": [],
+        "createdAt": "2023-01-03T21:54:35.628046+00:00",
+        "totalXP": 639.4415480610604,
+        "seasonXP": 333.05060889058086
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🌮",
+          "description": "product, development and blockchain",
+          "name": "scottrepreneur",
+          "profileImageURL": null,
+          "username": "scottrepreneur",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-01-29T21:44:26.104435+00:00",
+        "totalXP": 44.61702374988187,
+        "seasonXP": 2.972092179777443e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "#DAOrecords",
+          "name": "Vandal",
+          "profileImageURL": "ipfs://Qmersbcxu4W3s69X9RmLD3CvxCos4eBWUJDZTjqunAxnRo",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x1256e7992564ab22e332532472c916bd8d1e1ca7",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 75.77502261349028,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "pronoia",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x21c9aba2392dd5e15ce74bf9c8685ac4907b5fab",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-11-14T01:01:21.812462+00:00",
+        "totalXP": 411.5996442328367,
+        "seasonXP": 1.0471585162746054e-34
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "shep",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xd595634abf15938db7c1ca7e8923651434379faf",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 595.5023899746142,
+        "seasonXP": 1.0011442695914183
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xe5eda1eabfc23075d010927bd0111e8e36c33def",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2022-03-14T19:47:45.879669+00:00",
+        "totalXP": 464.95564206029775,
+        "seasonXP": 1.067849747787573e-13
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "👽",
+          "description": null,
+          "name": "PlayWith.eth",
+          "profileImageURL": "ipfs://QmYp1iLqqYBshjAVwGntiteWJjGzMf3r7iuCK3tSEFXTVu",
+          "username": "playwith-eth",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x5ea7ea516720a8f59c9d245e2e98bca0b6df7441",
+        "daos": [],
+        "createdAt": "2020-11-21T10:03:28.051474+00:00",
+        "totalXP": 98.52210087144084,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🦏",
+          "description": "Semi-tokenized. In it for the tech and all-you-can-drink conferences.",
+          "name": "Nemo",
+          "profileImageURL": "ipfs://QmVB218Jusdrfqw5VyWjbkZDhLWKypvZg367MH6GeH59Sc",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x767e47a828ae99a511029d2f3db50fe8c3d6964e",
+        "daos": [],
+        "createdAt": "2021-02-01T18:02:39.412605+00:00",
+        "totalXP": 34.0648984052004,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "taekikz",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x20efcd9b9ade8bd586f840c83a6d8dd8c1d6623b",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "patrick727",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xcebd2dd19c911761674bc2344dced8ec8148d19f",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 67.37634247369968,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 11,
+          "emoji": "",
+          "description": "hello.",
+          "name": "Vanilladelphia",
+          "profileImageURL": null,
+          "username": "vanilladelphia",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 1542.1665604837053,
+        "seasonXP": 8.599654248006685e-13
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeiaxvvdybh4qsvfh6pk5ci3e6wmit3hfbybgdwehfldo2hvz4yqgfi/background.jpg",
+          "colorMask": 27,
+          "emoji": "🔱",
+          "description": "Legal engineer dabbling with the intersection between the law and digital assets; currently wandering the metaverse with LexDAO in http://Voxels.com",
+          "name": "tenfinney",
+          "profileImageURL": null,
+          "username": "tenfinney",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x7b035331967075a168471dfbd23ed977f048f61e",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-07-06T01:01:19.562067+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "Freelance Illustrator / Designer / Creative",
+          "name": "Pab",
+          "profileImageURL": "ipfs://QmUZqwYkF5iZrcoeyeBtR1PQvqeKoTeoRCE2bD4S3Hc1ep",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xfbc56be13c23c18b6864d062e413da3c7e0f74fb",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-03-09T00:06:16.872+00:00",
+        "totalXP": 43.580563814216205,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": "🏴",
+          "description": "Marko Zubak, Artist.\nMain: http://markozubak.com ¤ #CryptoSkateboards:  https://bit.ly/2qbLPPs ¤ VR galleries: http://bit.ly/2x8THBf ¤ SuperRare: http://bit.ly/2qv8oP2 ¤ KnownOrigin: http://bit.ly/2Btar8v",
+          "name": "mlibty",
+          "profileImageURL": "ipfs://QmV7GbLjP5kPoLxaQBZ21WzZmBmtZ6wfNq4fEkxPMraQZk",
+          "username": "mlibty",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x9eec0b5bd8a48047f0dcc61e98b4b92951480f98",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 790.6158552254229,
+        "seasonXP": 2.3317906345719555e-8
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": null,
+          "description": "Living life as I add to others helping. Life is the journey make it memorable, so others uplift your experiences when you are not around.  ",
+          "name": "TYMED",
+          "profileImageURL": "ipfs://QmSLwBkZFzBWw9Fq8zsCFkLr1xXXgx8U4KLLoyay7BLSaL",
+          "username": "trademark",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x4accdfd779e8fa60a3686030a6eb36d663399e13",
+        "daos": [],
+        "createdAt": "2022-03-18T16:20:56.043918+00:00",
+        "totalXP": 412.46164000836336,
+        "seasonXP": 16.291687657907254
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 11,
+          "emoji": "☠️",
+          "description": "design + code",
+          "name": "thebeyondr",
+          "profileImageURL": null,
+          "username": "thebeyondr",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x28ede9352a5f76daec81cfc65d7246f6665f5fa3",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2022-11-10T20:27:50.945728+00:00",
+        "totalXP": 151.45829433471744,
+        "seasonXP": 0.0000048727471513115036
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "defilezebra",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xa68e0b444e7f5242e48cea2447fce03cb7b8ad16",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 1182.0087433480921,
+        "seasonXP": 0.003501577252519358
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeigkc53i2x4rdwmzywwl75ci7wtdr2enmoxd7f5tyauuuxj3gl7mwe/background/gotchifarmin.png",
+          "colorMask": 31,
+          "emoji": null,
+          "description": "UX Designer\nMetaverse Builder\nGame Developer\nMusician\nComposer\nPermaculturist\nSustainability Technician\nIRL Community Developer\nVisioneer\nProblem Solver\nBridge Builder\nHead Hunter\nSovereign Nomad\nEther Bender",
+          "name": "Musashi13",
+          "profileImageURL": null,
+          "username": "musashi13",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": "GOLD",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": "🚀",
+          "description": " A psuedo-anonymous entity building in Web3 & DAO communities - currently learning Front End Development",
+          "name": "FearlessThompson",
+          "profileImageURL": null,
+          "username": "fearlessthompson",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xeab44dd5e7e1c9dbbe3eb6ebc121c3cdd0cc3579",
+        "daos": [],
+        "createdAt": "2021-03-31T14:26:03.053046+00:00",
+        "totalXP": 2170.3634785140002,
+        "seasonXP": 1.6986183788914309
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeibyyh7oqtykha6f462xhsf4vhzlqxi2fqlk5mmtgetzhi5gl6wxfm/background/30cb83cfcc1ef9cc618459af1b015cb1-mushroom-cultivation-agar.jpg",
+          "colorMask": 14,
+          "emoji": "😅",
+          "description": "\ndebugged.exe",
+          "name": "Unipuff 🜐",
+          "profileImageURL": null,
+          "username": "unipuff",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xf6f32d231b517d32b98ce03464c2a7c272bdb272",
+        "daos": [],
+        "createdAt": "2021-11-15T23:57:24.823695+00:00",
+        "totalXP": 2102.5486162071425,
+        "seasonXP": 1.0209897911483849e-13
+      },
+      {
+        "rank": "DIAMOND",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 11,
+          "emoji": "🔥",
+          "description": "https://metagame.wtf/player/misanth\nwhoisme?",
+          "name": "misanth",
+          "profileImageURL": "ipfs://bafybeibdtqdxkhb42ee4v4s557mpt6ujygdiew2pzwbtovkfw4kdmy6m3i/profile.png",
+          "username": "misanth",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x8e4bdd156e4dd802dd919f4fd2645681ce99a538",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-31T01:01:28.533236+00:00",
+        "totalXP": 6108.302382555034,
+        "seasonXP": 18.031479866789976
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🐧",
+          "description": "Full-Time CryptoArtist and NFT Enthusiast. Living in the Metaverse because the real world is fucked; doing what I can to support fellow creators and contribute to the NFT ecosystem. ***15% of every sale will support $GOOSE / $FTHR\n\nTwitter/Insta/Github/Etc. : @xbrucethegoose",
+          "name": "BruceTheGoose",
+          "profileImageURL": "ipfs://QmSq6Wp8bGPJ1fH9oE4jpKf6j4Dmswbw1CVuGr3iWkBVyW",
+          "username": "brucethegoose-eth",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x3a3355805181ba5752cb52cebe8c95c0f3ed3d61",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 0.42047474592081274,
+        "seasonXP": 3.168615093789855e-14
+      },
+      {
+        "rank": "GOLD",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": "☯♍",
+          "description": "Art, Science, Spirituality\n\n432Hz researcher.\n\nArt, Production, Education",
+          "name": "joseacabrerav",
+          "profileImageURL": null,
+          "username": "joseacabrerav",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x29185eb8cfd22aa719529217bfbade61677e0ad2",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 2641.4531185897254,
+        "seasonXP": 618.0313617947645
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": "Nitegeist",
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x2410d50ba4993c1fe13b3db0bcdae51b1c617d0a",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2023-01-18T00:34:29.051031+00:00",
+        "totalXP": 150.66658494337275,
+        "seasonXP": 0.00001874110074096862
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "💻",
+          "description": null,
+          "name": "Damjan",
+          "profileImageURL": "ipfs://QmWH1cUy4d7XHizD9MxomSPnHkZXFLnfAmvjVgCXq54TCT",
+          "username": "damjan-discord",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x509fdabab2c609dfd1230c3c36e859779ed97fed",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x98753e5f9cd76b46cbd95bf16d166faee1a7720b",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 162.97325324723778,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "👽",
+          "description": "Female independent artist that loves to create physical goods such as stickers, rugs and clothing for the metaverse!",
+          "name": "Sad Birds Club",
+          "profileImageURL": "ipfs://QmNV2MV86wdT1FThZQdiAMBqWEivAJvqsxLWLsGLr5Wvnr",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x3f0f99ec5a55a51c55e2dfb732332437213b5650",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 129.75203596359475,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "PLATINUM",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "👍",
+          "description": "I am a small flightless bird",
+          "name": "penguin",
+          "profileImageURL": "ipfs://QmNefNAFiFByVpVZrvQosQ8H8AbUVoYL4WME8PWjgWWHTJ",
+          "username": "penguin",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xfacef700458d4fc9746f7f3e0d37b462711ff09e",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 4219.834751824922,
+        "seasonXP": 4.501661452094196
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 10,
+          "emoji": "🐝",
+          "description": "Builder of bridges and player at Giveth, The Commons Stack, Metagame .",
+          "name": "Kay",
+          "profileImageURL": "ipfs://QmVZ5P2jRNr7anMSAbsgurp1fSCAmUNgLiskKGGbCU4rmp",
+          "username": "geleeroyale",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x701d0ecb3ba780de7b2b36789aec4493a426010a",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 1571.581350590602,
+        "seasonXP": 1.2227234265282074
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": "🧞",
+          "description": "𝐢 𝐫 🆂🅸🅼🅿🅻🅴😅， Ⓜ️🅸🅽🅸🅼🅰🅻🅸🆂🆃🅸🅲， 3️⃣🆃🅷🅸🅽🅺🅴🆁🧠.\n\n𝐢 𝐫 𝐭𝐞𝐜𝐡🧞𝐬𝐡𝐚𝐦𝐚𝐧 横も，𝐧𝐢𝐜𝐞𝐬𝐭𝟎𝐧𝐍𝐞𝐭。\n\nॐ ｗｅ　ａｒｅ　ｏｎｅ ϟ",
+          "name": "𝐬𝐳𝐚𝐛𝐨𝟎𝐠𝐞𝐧𝐢𝐞",
+          "profileImageURL": null,
+          "username": "b0gie",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x091fcbb9186f392610740038ea5b8007fe7674e4",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-01-09T18:30:23.647304+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🦊",
+          "description": "poetry, commons, blockchain, art lover\n",
+          "name": "ben.oxmo",
+          "profileImageURL": "ipfs://QmXh3wdgYTGWGiPJ6SyTwuVc84wtR1BSA3grc3y6hnYwXi",
+          "username": "benoxmo",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x4059457092cc3812d56676df6a75fd21204fbe2f",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 231.2392675611895,
+        "seasonXP": 2.972099377934609e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": "🌱",
+          "description": "Product Engineer & Technologist interested in civic hacking, decentralization, and tools for thought\n\nRabbitHole, Raid Guild, DAOhaus, MetaCartel",
+          "name": "jp",
+          "profileImageURL": null,
+          "username": "jonathanp",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x0b5f5a722ac5e8ecedf4da39a656fe5f1e76b34c",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-11T01:01:00.661976+00:00",
+        "totalXP": 389.93595862798236,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x67d4eac3e2bb453ba5561553d169a65df06b56a1",
+        "daos": [],
+        "createdAt": "2022-03-21T21:07:29.275618+00:00",
+        "totalXP": 13.652807594640498,
+        "seasonXP": 2.9721108291000495e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xca6bd9152bd92f6a8e5c991fcc53b24ca6ee470b",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 87.80022301699891,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 26,
+          "emoji": "🎨",
+          "description": "I am a designer, baby!",
+          "name": "DaveDave",
+          "profileImageURL": null,
+          "username": "daveth",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xe64d3f087d26c7d153e2286c2beea76fe0a5397d",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-03-30T08:34:06.697969+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 6,
+          "emoji": "😼",
+          "description": "With the right narrative it is possible to depict a post-scarcity society in such a believable way that it bootstraps itself.\n\nI think the Revolution will come as a change in shopping preference and mechanism for learning about current events.",
+          "name": "Δυσ-compromised",
+          "profileImageURL": null,
+          "username": "dysbulic-compromised",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xc33290860c1da6a84195c5cf1575860d3a3ed73d",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": null,
+          "description": "Testing bloom filters with Jpick",
+          "name": "Huxwell",
+          "profileImageURL": null,
+          "username": "huxwell",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xc9a238405ef9d753d55ec1eb8f7a7b17b8d83e63",
+        "daos": [],
+        "createdAt": "2021-06-15T15:10:53.246343+00:00",
+        "totalXP": 75.87861780161036,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "PLATINUM",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": "🌮",
+          "description": "i do stuff.  i break for tacos occasionaly.",
+          "name": "tommy,",
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 5419.6821113197075,
+        "seasonXP": 37.69803724276299
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "😎",
+          "description": "I am DeFi, dude.",
+          "name": "DeFi Dude",
+          "profileImageURL": "ipfs://QmXnofpXDdZZhQi93FXefHGUefc17vpSwgQDzPDTknS1kA",
+          "username": "defidude",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xf3b1b6e83be4d55695f1d30ac3d307d9d5ca98ff",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 469.78372222480675,
+        "seasonXP": 1.9915870958503554e-17
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeide3u2ngc5sbrfsws6graixq3q7xapnmnqsed7drawol32keyxqai/background/Maxwe11_None_478d0d88-e725-4ba1-9ac7-da777ec67412.png",
+          "colorMask": 12,
+          "emoji": null,
+          "description": null,
+          "name": "Maxwe11",
+          "profileImageURL": "ipfs://bafybeifkyx3h4r5npawad3dllagerz4hcirju64jd6b7tceos3k43iz64a/profile/IMG_3459.JPG",
+          "username": "maxwe11",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x3f20a6fe04b3a4b37bbbbea826ae23be56baed74",
+        "daos": [],
+        "createdAt": "2022-03-14T19:30:12.447311+00:00",
+        "totalXP": 333.4734620613465,
+        "seasonXP": 1.938765663448234
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🔥",
+          "description": "Head of Community at Status",
+          "name": "Simona Pop",
+          "profileImageURL": "ipfs://QmbxAKt2hwdRaWe1NBMBdwSX1X7YdwfvmxgLxN3esvRqSy",
+          "username": "simona",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x54becc7560a7be76d72ed76a1f5fee6c5a2a7ab6",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 6.079293611633885,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xc222face875a344846ccd489c57c401046790d98",
+        "daos": [],
+        "createdAt": "2021-03-25T22:47:42.198011+00:00",
+        "totalXP": 112.95764140665851,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "GOLD",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": null,
+          "description": null,
+          "name": "Polimyl",
+          "profileImageURL": "ipfs://QmQhJAr1yhMP1g8hgL9QS4KX1B4wCVoQ44Zh32aYVGfZ2m",
+          "username": "polimyl",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x4cbf20d7393f372d7947338336b5043081871116",
+        "daos": [],
+        "createdAt": "2021-09-03T14:01:26.153552+00:00",
+        "totalXP": 2596.67835526346,
+        "seasonXP": 125.8303478524332
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "djedhi-discord",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x6c379474d8ac313676945a4a7a3a1c590eec0995",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 27.669416004122606,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 11,
+          "emoji": "🐙",
+          "description": null,
+          "name": "eowulia",
+          "profileImageURL": null,
+          "username": "eowulia",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xa82bcd1ba56b4bb0f46bc29da53413c73be27509",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 26,
+          "emoji": "🎩",
+          "description": "Sr DAOplomat @ Mantle & Core Contributor to BitDAO. Founding Steward of Opolis & SporkDAO. Co-Founder of RainbowRolls, PublicNouns, TheRugNews, and the BufficornBUIDLBrigade",
+          "name": "0xJoshua",
+          "profileImageURL": "ipfs://bafybeigibkpaue5ktmzalmy2g75dtm66yce4m6hyyae3cb6z4df6w3bgje/profile/0xjoshua pfp.jpg",
+          "username": "0xjoshua",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x1df428833f2c9fb1ef098754e5d710432450d706",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-12-21T19:41:43.304651+00:00",
+        "totalXP": 153.7375332810639,
+        "seasonXP": 1.3378677912678891e-13
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 12,
+          "emoji": null,
+          "description": "Scientist exploring and building the web3 space.",
+          "name": "Bacon",
+          "profileImageURL": "ipfs://QmTowgporriUdHcqXhFYZG9db8xZZqZCHEtVfA2LKFseLU",
+          "username": "bacon",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x47a9a2fe26f9ec391cfc6b44f0a104c75f6bbc71",
+        "daos": [],
+        "createdAt": "2021-06-05T07:59:11.568551+00:00",
+        "totalXP": 1524.3413890757715,
+        "seasonXP": 3.307875919454315
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 3,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "blairv",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x79b92357bb57a449394a877ba673bdc00194e274",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 17.380565138957653,
+        "seasonXP": 2.9937746655643466e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "calvbore",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x9315d886ea870f47e1619743df8c6e46b3704a42",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 305.5217800150285,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "DJ, crypto enthusiast, bon vivant. ",
+          "name": "googoomuck",
+          "profileImageURL": "ipfs://QmSfuWhk8MpQDAJUW4qGGYkuXfLMpYVyhXgVTDwqz5n9Js",
+          "username": "googoomuck",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x0bb44da1a16b44956b2523b23667989c23c0195a",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-03-20T20:56:20.041473+00:00",
+        "totalXP": 10.027103807266684,
+        "seasonXP": 0.019736173173235002
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "magnus",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x7b39afdb75fd542bd7104cdea462f9773a63855d",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 40.50625297755557,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 9,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "kn00t",
+          "explorerTypeTitle": "Town Planner"
+        },
+        "ethereumAddress": "0x9d93f4d0f99c94801eab57b7114b834eacfa4bd8",
+        "daos": [],
+        "createdAt": "2021-04-03T01:39:44.070096+00:00",
+        "totalXP": 1.9097189068694191,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 1,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "bagholdermcfomoiii",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x0751b77e8acaeffad53667c72aa7ce66688d8c61",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-01-20T23:52:46.129397+00:00",
+        "totalXP": 1600.9519746657584,
+        "seasonXP": 2.3580930612823664e-28
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x756ee8b8e898d497043c2320d9909f1dd5a7077f",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 5.05409660568871,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 24,
+          "emoji": null,
+          "description": "I usually like to meet people and learn new things.",
+          "name": "crisleash",
+          "profileImageURL": "ipfs://bafybeic7lzuv7rgdh2rpnofaucln5j3wlsquibpx76v3h4vcwkb6lvorq4/profile.png",
+          "username": "cris_leash",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x492c52a72104d3ffab2885f257b4d2ebd97338ee",
+        "daos": [],
+        "createdAt": "2021-11-26T18:30:30.484368+00:00",
+        "totalXP": 364.03962444058266,
+        "seasonXP": 3.084695919548465
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": "sho",
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x408e68023e12bfc7d29ca7d3656395d3de0749e0",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 198.69424991876238,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "I'm alright",
+          "name": "WhyldWanderer",
+          "profileImageURL": "ipfs://QmQyUTCx9TaP8pharnputUWJ8EmyMRGWiPkrc1ZuZNd4PL",
+          "username": "whyldwanderer",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xed8db37778804a913670d9367aaf4f043aad938b",
+        "daos": [],
+        "createdAt": "2021-01-25T21:36:42.004609+00:00",
+        "totalXP": 52.90220996714118,
+        "seasonXP": 0.21167481621667422
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": "🥔",
+          "description": null,
+          "name": "vyvy-vi",
+          "profileImageURL": "ipfs://QmedxRkL9j4Y1jcnfibrkcGktzp5858sBTKFoLqDEoDcLi",
+          "username": "vyvy_vi",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xdd505da2e2a8017f38a715948c6b6a2922ba27f0",
+        "daos": [],
+        "createdAt": "2021-03-04T06:35:20.085993+00:00",
+        "totalXP": 257.3827639286018,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x4f4fe578482dccdde80d724817ac091a417c0874",
+        "daos": [],
+        "createdAt": "2021-11-21T13:33:34.987826+00:00",
+        "totalXP": 6.27441682397245e-42,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": "",
+          "description": "DAOist, commoner, d14n hacker.",
+          "name": "philh.p2p.eth",
+          "profileImageURL": null,
+          "username": "philh",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xaa01dec5307cf17f20881a3286dcaa062578cea7",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 18.349963285102383,
+        "seasonXP": 2.972092318435418e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 29,
+          "emoji": "🦊",
+          "description": "Web 3.0 | DAO | DeFi | 🐙MetaGame & MetaFam 🐙\nFloating in Metaversal dreams, neglecting reality 👩‍🚀       \nPerfection doesn’t exist... 😏",
+          "name": "Rankko.eth",
+          "profileImageURL": "ipfs://QmUFWqEbFwaN7jGu5eEbs24JxYBnY5FbWUsfhLj5fiRwNm",
+          "username": null,
+          "explorerTypeTitle": "Town Planner"
+        },
+        "ethereumAddress": "0x139f73c185953b2443d2d57f0522569736e8d81a",
+        "daos": [],
+        "createdAt": "2021-07-16T13:38:22.420399+00:00",
+        "totalXP": 466.2177132504531,
+        "seasonXP": 1.4399295818819622e-12
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x352ca2026033ea95ebcd198d5f922184820d514f",
+        "daos": [],
+        "createdAt": "2022-08-17T12:29:29.266333+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": "Kris",
+          "profileImageURL": "ipfs://QmUYzp6btzzaqKBdQaFeKzCxHHWj9Qk84mEmPD9SFXSchd",
+          "username": "kris",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xec952ed8e7c2aa466cac36fd611d2e87df1243d7",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 341.78161817302856,
+        "seasonXP": 12.270408911312028
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": "JayWelsh",
+          "profileImageURL": "ipfs://QmPuuV4TPLHuvK3cDjRJ66Zc8We4jJDCezmeUHD6A8wcL5",
+          "username": "jaywelsh",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xe8256119a8621a6ba3c42e807b261840bde77944",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 215.07194511625752,
+        "seasonXP": 1.9991365083201584e-21
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xd8c7ea3e87a04c26de0a1cd21117cf8595a59a46",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 63.469314385752895,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "DIAMOND",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 17,
+          "emoji": null,
+          "description": null,
+          "name": "alec",
+          "profileImageURL": null,
+          "username": "alec",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x4c81e51aa103490838fd9db1d859a5fcd8276324",
+        "daos": [],
+        "createdAt": "2020-10-28T01:01:57.003946+00:00",
+        "totalXP": 7092.6661727294595,
+        "seasonXP": 275.1251199832803
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 1,
+          "emoji": null,
+          "description": null,
+          "name": "JB",
+          "profileImageURL": "ipfs://QmQR2828dvmeTrEVcnXDAsoerQszCHyXVXxS4EudYv15X7",
+          "username": "jb",
+          "explorerTypeTitle": "Town Planner"
+        },
+        "ethereumAddress": "0x31483a93c879c9dcf85899f61b521e1e5b520b69",
+        "daos": [],
+        "createdAt": "2020-10-21T01:01:00.927033+00:00",
+        "totalXP": 2.550001634226179,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🤓",
+          "description": "just a noob",
+          "name": "Lucas Cerro",
+          "profileImageURL": "ipfs://QmQpKiXpuQWURBA3ij9SgB7QP36ZYdXm1QtFRWEUPmJyYK",
+          "username": "max",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x9583648c314cdf666f4f555299db3b36f5d5b2f9",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 73.46930340641654,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🐳",
+          "description": null,
+          "name": "AtHeartEngineer",
+          "profileImageURL": "ipfs://QmahuTj8KGx1ByarWundAEzBxFLNp12UWC4GfqGyMiM11z",
+          "username": "atheartengineer",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xbca02edebb39e215d1896a11a5c9bfb0e6a22795",
+        "daos": [],
+        "createdAt": "2020-12-19T09:41:40.169817+00:00",
+        "totalXP": 79.4458803099627,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": null,
+          "description": "",
+          "name": "Magenta Ceiba",
+          "profileImageURL": "ipfs://bafybeiddc4t3w5bhq3ptht7dpj3cswsrta4qj4jm3dzeggcwovbwmxssze/profile/greenGalMage.png",
+          "username": "magenta",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x152ad2e12e102abf64280c5e3d70257effb0ede0",
+        "daos": [],
+        "createdAt": "2020-10-12T01:01:29.728917+00:00",
+        "totalXP": 165.5576737096363,
+        "seasonXP": 0.22070518195045025
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "cami",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xed2aeaeac44036a35e36ccd7397d44ea70bdd73e",
+        "daos": [],
+        "createdAt": "2022-02-22T18:58:19.65885+00:00",
+        "totalXP": 470.20027906281837,
+        "seasonXP": 4.699709601970589
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "dunks411",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x069e85d4f1010dd961897dc8c095fbb5ff297434",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 56.90113711904775,
+        "seasonXP": 9.357488935864585e-19
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "jojobizare",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x9fe5829435eb70d4a3c51f8df130f6aad3475efa",
+        "daos": [],
+        "createdAt": "2021-03-07T14:05:50.299806+00:00",
+        "totalXP": 53.19645509218128,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 9,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "mprime",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x91d999f5dc7273df1449e0d02fd70432e7ce9b24",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 1188.172845274118,
+        "seasonXP": 2.9721622018951732e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "manu",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xb90139b5f5c73321943fb19cdab8563886faeed2",
+        "daos": [],
+        "createdAt": "2021-03-25T18:09:00.233604+00:00",
+        "totalXP": 194.10611046241166,
+        "seasonXP": 1.8298799620722444e-18
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 4,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "tomballs",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x8af8035d9ba1b046cf0f26631f37a714e9abdc09",
+        "daos": [],
+        "createdAt": "2021-07-26T22:55:27.553616+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "I am a coder.",
+          "name": "0xmaker",
+          "profileImageURL": "ipfs://bafybeihvfmomestapu6rar2j5ijk47govhx6bcz5px6l23nmtbu76foqna/profile/skull_guy.jpg",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x7b86f576669f8d20a8244dabefc65b31d7deb3f2",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2022-09-28T13:11:37.453564+00:00",
+        "totalXP": 186.72594182560846,
+        "seasonXP": 0.13251070606903803
+      },
+      {
+        "rank": "DIAMOND",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 10,
+          "emoji": "⚽",
+          "description": "Buidling the decentralized future of the world! ",
+          "name": "dan13ram",
+          "profileImageURL": "ipfs://QmVUB4A9bsd5GX8SDo8zWKGgAJcn2E7U5suRQw3gWboSdn",
+          "username": "dan13ram",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x1e9c89aff77215f3ad26bffe0c50d4fdeba6a352",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 6277.031426773798,
+        "seasonXP": 30.676293237654
+      },
+      {
+        "rank": "DIAMOND",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 11,
+          "emoji": "👽",
+          "description": "Metaverse engineer piecing together the web3 puzzle 🌱 Dev + Design + Strategy \n@TheMetaFactory @MetaFam @coordinape @VENTURE_DAO @meta_cred @meta_cartel\n 🤖🌶🐙",
+          "name": "META_DREAMER",
+          "profileImageURL": null,
+          "username": "metadreamer",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x8f942eced007bd3976927b7958b50df126feecb5",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 10657.755665378098,
+        "seasonXP": 4.80626419246669e-27
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 11,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "eris",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x26489976f21c323164116c6cbb1ff537f17b4c5b",
+        "daos": [],
+        "createdAt": "2021-04-26T15:02:20.301861+00:00",
+        "totalXP": 6.035536041373065,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🌱",
+          "description": "https://scholar.google.com/citations?user=bbdc3vkAAAAJ&hl=en",
+          "name": "Zargham",
+          "profileImageURL": "ipfs://QmWgZURp5ZXWCJscKo28HkcGF3HNzqDdfY4cMK9mNAbZhr",
+          "username": "mz",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xdf290293c4a4d6ebe38fd7085d7721041f927e0a",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 912.2199257614864,
+        "seasonXP": 2.3076047313723724e-39
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 14,
+          "emoji": "",
+          "description": null,
+          "name": "Ninja0x",
+          "profileImageURL": null,
+          "username": "crypt0xninja",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x6ed7f81208839e31e11840049201201c469a7a56",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 1.9807506486830386,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": "🤖",
+          "description": null,
+          "name": "Lahcen KH",
+          "profileImageURL": null,
+          "username": "charingane",
+          "explorerTypeTitle": "Town Planner"
+        },
+        "ethereumAddress": "0x1426fbd146942e153653863cbe633780c17268da",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 764.9196798201729,
+        "seasonXP": 10.3647304458793
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🚀",
+          "description": "I'm a Full Stack Dev & Data Engineer. Passionate about blockchain, data/AI & decentralized solutions",
+          "name": "Santiago Gonzalez",
+          "profileImageURL": null,
+          "username": "santteegt",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 33.68141388549677,
+        "seasonXP": 1.6864918063961136
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeibcoesjqk2m56oojcgtswizr2tlq2nbecaijeoo5bmd7urkchrkfq/background/BG.png",
+          "colorMask": 25,
+          "emoji": "♒",
+          "description": "Designer, Etherean, Neo-Generalist. #Web3 #UX #B4G",
+          "name": "Marko Prljic",
+          "profileImageURL": null,
+          "username": "markop",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x6d97d65adff6771b31671443a6b9512104312d3d",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 832.7266034562595,
+        "seasonXP": 0.000011107973804784308
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x4c1546b2d87ece5be3429df8d5f7987ce3c2fd45",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 410.0301740339711,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "DIAMOND",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeidbokbg2f5lyduwpfukgvow574mqprdneru3f4df6xylrw7jlucgq/background/mg-smoke-particles4.jpg",
+          "colorMask": 23,
+          "emoji": "🦡",
+          "description": "Old timer frontend developer since the turn of the century. I've been working in Web3 since mid 2020, mostly in and around MetaGame. I have a strong creative streak - I 💚 to code, design and create things with my hands IRL. You might call me a 'creative developer', among other things.\n\nHTML, CSS, React, Typescript, Javascript, ThreeJS, Blender, Voxels are some of the tools I use. ",
+          "name": "luxumbra.eth",
+          "profileImageURL": "ipfs://QmU4oJs1WJgchSGyxQp2QxkEn6H25fiCnFBxjnRb8hxmhz",
+          "username": "luxumbra",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x78ec73423b222cb225549bab0d0a812d58808ffd",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 9171.574002219011,
+        "seasonXP": 19.413219597088098
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "⚡",
+          "description": "Burning desire to create a Web 3.0 startup",
+          "name": "Alex Masmej",
+          "profileImageURL": "ipfs://QmbMk4z4fhpf91iRiv1dpQ42g1eQQgk36pw3zBp2YAeQR1",
+          "username": "alexmasmej",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xd3e9d60e4e4de615124d5239219f32946d10151d",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 63.95994172688726,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "blakehun",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x09d07aec655032f6d05482999b6b7f683e80568b",
+        "daos": [],
+        "createdAt": "2021-01-06T23:13:27.002778+00:00",
+        "totalXP": 186.1946740768519,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "PLATINUM",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeifzuudqq3s4pxhavttwemwgbpn6yvfepu2b7aka4zxmy3mackuvxa/background/tinypinkkitten (1).png",
+          "colorMask": 31,
+          "emoji": "🪡",
+          "description": "hehehehehh",
+          "name": "vid",
+          "profileImageURL": "ipfs://bafybeigmvyivgcdqroab3c4gee73db3dbdohuwalq6mr2u6q2d5b3r5qpi/profile/MALA PIKICA.2 profipng.png",
+          "username": "vid",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x89bf9baaee2d451477cf850fe4c0d89bb796b1ad",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-08-24T08:03:22.620068+00:00",
+        "totalXP": 4868.4330803689,
+        "seasonXP": 38.820390221883926
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xe372cf77187e27b15805803cf331f6b7330f223b",
+        "daos": [],
+        "createdAt": "2022-10-18T09:04:26.180829+00:00",
+        "totalXP": 126.99892339042604,
+        "seasonXP": 15.522656144280141
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x6bc842966e4de1733644905f8f0b10ad4aa0c000",
+        "daos": [],
+        "createdAt": "2021-01-12T16:06:36.218701+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "",
+          "name": "Polina",
+          "profileImageURL": "ipfs://Qma8bhnuvnSmybHmJcnrjp25X8bLDkEyBsiCi3xgVX2Wqp",
+          "username": "polycarp",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x710e2f9d630516d3afdd053de584f1fa421e84bc",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 439.00007615579176,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": "🐙",
+          "description": "Web3 citizen building things at Ubisoft, MetaGame player, MetaClan Guardian and maybe more?\n",
+          "name": "nicolaslaw.eth",
+          "profileImageURL": null,
+          "username": "nicolaslaw",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x2beba030cdc9c4a47c5aa657974840428b9fefac",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 382.7257220991632,
+        "seasonXP": 4.9975426989853575e-15
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": "🐉",
+          "description": "Bio-centric global prosperity advocate. MetaGamer. SolarPunk Jedi of Urbánika and the Crypto-Commons Association. Co-summoner of the UBI Blockchain Collective. \n\nContact me if we can regen cities, politics, and the economy together:\nhttps://meetwithwallet.xyz/hbesso31.eth",
+          "name": "HBesso31",
+          "profileImageURL": null,
+          "username": "hbesso31",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xe73a198e7c07c418d7dcfd42f5e953074abbd125",
+        "daos": [],
+        "createdAt": "2021-06-08T18:52:24.98598+00:00",
+        "totalXP": 2109.2927866912396,
+        "seasonXP": 12.703899400494521
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "jack-g",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x4052336e4b1a6f05d15a90e8ce8a0a4c4d512243",
+        "daos": [],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 19.265756532143843,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "piedrademar",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x73bea65145f19702da07d8908e994a193b5855a1",
+        "daos": [],
+        "createdAt": "2021-11-12T16:24:56.40186+00:00",
+        "totalXP": 2095.1494529278384,
+        "seasonXP": 501.8011405026644
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 10,
+          "emoji": null,
+          "description": "Full Stack Developer",
+          "name": "Udit Takkar ",
+          "profileImageURL": null,
+          "username": "ud1t",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x759bace429553bca40645da3283de1a105531b11",
+        "daos": [],
+        "createdAt": "2021-08-27T16:24:40.671812+00:00",
+        "totalXP": 850.6565109167848,
+        "seasonXP": 5.673977201184037e-23
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "👽",
+          "description": "Hack the planet(s)",
+          "name": "Mars",
+          "profileImageURL": "ipfs://QmYqXN9S7FUSohFFKriUXa8nmwUAx4ZmHcWcb8jLKs5GvJ",
+          "username": "mars-basex",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x85a363699c6864248a6ffca66e4a1a5ccf9f5567",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 68.27576300326912,
+        "seasonXP": 1.6121416001059703
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "⚠️",
+          "description": null,
+          "name": "Hacked Ginelli",
+          "profileImageURL": "ipfs://QmZMmgHz5fES1AMnod18UP8TRoyRwsQTFXiaWcw9XbDJxe",
+          "username": "youngkidwarrior",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xe8adaea0ba507a28d1309051beceb4db7fe377af",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x37bd0ae78dd5cd338d6e80b5c87b6f8e38121297",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 22.052905410448822,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x062f901129158536e6f410a80b631c1f88e4809b",
+        "daos": [],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 79.90088858677522,
+        "seasonXP": 3.222393479389808e-29
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 26,
+          "emoji": null,
+          "description": null,
+          "name": "chair",
+          "profileImageURL": "ipfs://QmZ35CiNjbv4SXPRUmtDQjoCVJzGzcUqrv7XVLpJZ147AB",
+          "username": "chair28980",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xe0802cf223a05a14408ad44e7f878d21408fb04c",
+        "daos": [],
+        "createdAt": "2021-05-27T05:25:55.367606+00:00",
+        "totalXP": 872.1969510925978,
+        "seasonXP": 39.62234678622958
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x6432b999375008a597e4165bca665cff6a8a23ca",
+        "daos": [],
+        "createdAt": "2021-04-27T20:29:51.286367+00:00",
+        "totalXP": 15.501433857641889,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 8,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "kangar00",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x6576dcd9f751c99adb07411b22ddda0be7ffe420",
+        "daos": [],
+        "createdAt": "2021-03-23T19:46:24.221939+00:00",
+        "totalXP": 6.27441682397245e-42,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xa95fae5214576913d6cf4bf6df5b5936350e50d9",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2022-10-14T21:30:53.144625+00:00",
+        "totalXP": 104.29062685371838,
+        "seasonXP": 16.234178806121605
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 4,
+          "emoji": "👾",
+          "description": null,
+          "name": "Michiel",
+          "profileImageURL": null,
+          "username": "michiel",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0xcf0ebaa2bc9ba3bb8c655fabb26976528d64fcb7",
+        "daos": [],
+        "createdAt": "2021-02-17T20:22:11.649683+00:00",
+        "totalXP": 0,
+        "seasonXP": 0
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeici4jh2rco57bmtraikxrig5shiwq4wddqzmtpaizzkwfzozcf3dy/background/Owned Dutchtide #4804.jpg",
+          "colorMask": 11,
+          "emoji": null,
+          "description": "Willing and Capable of Changing the World",
+          "name": "apeironcreations",
+          "profileImageURL": "ipfs://bafybeici4jh2rco57bmtraikxrig5shiwq4wddqzmtpaizzkwfzozcf3dy/profile/Chippi Apeiron png.png",
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x986e92868a27548a31e88f7692e746cd7e86f39a",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 545.5695372367525,
+        "seasonXP": 35.115116415741824
+      },
+      {
+        "rank": "GOLD",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 3,
+          "emoji": "🦊",
+          "description": "Digital nomad. Marketing and other things. I tell jokes that nobody understands.",
+          "name": "Anna",
+          "profileImageURL": "ipfs://QmQLtn1Aig9MWeQAnqN5pCWJJzqo3ZE8Whxxj47p78BF77",
+          "username": "annak",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x841c11b14c428dd591093348b8afa2652c863988",
+        "daos": [],
+        "createdAt": "2021-08-06T16:24:03.444832+00:00",
+        "totalXP": 2409.9398662261497,
+        "seasonXP": 0.44501691609704785
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": "drllau",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x590d24003d5ec516502db08e01421ba56a5cd611",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 143.49501370029222,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": null,
+          "name": null,
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0xc316319950bf01e18748ed807c05cbe64d48da6b",
+        "daos": [],
+        "createdAt": "2020-12-03T08:23:02.941215+00:00",
+        "totalXP": 138.74253861746763,
+        "seasonXP": 2.9720921797990676e-43
+      },
+      {
+        "rank": "SILVER",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": null,
+          "description": "",
+          "name": "HHH",
+          "profileImageURL": "ipfs://bafybeif7yneulz5wm2an7uun52qm5vjcaojqzrwdv27no5mog3oo2bozti/profile/HHH-discord-2.png",
+          "username": "hhh",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0x7326b0d5ba05bb1db17298a0283ab1d3269adeb2",
+        "daos": [],
+        "createdAt": "2022-01-26T13:07:54.859517+00:00",
+        "totalXP": 1414.1344116341909,
+        "seasonXP": 91.01145857090157
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 2,
+          "emoji": null,
+          "description": "just another investor",
+          "name": "0x7a",
+          "profileImageURL": null,
+          "username": null,
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x7a3bf9b823eb96f8f0777437ec01d0082182c2af",
+        "daos": [],
+        "createdAt": "2021-08-16T23:28:18.611499+00:00",
+        "totalXP": 4.056205223904907,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 31,
+          "emoji": null,
+          "description": "Regenerative Solution Seeker and Communications Mage",
+          "name": "Lauren",
+          "profileImageURL": "ipfs://QmVqinrUzevQEAFsPfhCE9UZn9eF3QnNWHWAa1ksbi3r3j",
+          "username": "karmaticacid",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xc46c67bb7e84490d7ebdd0b8ecdaca68cf3823f4",
+        "daos": [],
+        "createdAt": "2021-01-12T20:41:21.404038+00:00",
+        "totalXP": 487.8745989896853,
+        "seasonXP": 3.7994484706154843e-16
+      },
+      {
+        "rank": null,
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": null,
+          "emoji": "🤠",
+          "description": null,
+          "name": "Gunnar",
+          "profileImageURL": "ipfs://QmRa74Hz1xopDMDrkET7KHui47oMgAwDS1FkVKEmTAM3jA",
+          "username": "alibyte",
+          "explorerTypeTitle": "Pioneer"
+        },
+        "ethereumAddress": "0x44bf6f5b5a5884e748fc87e10ddc4b6eb3c027c7",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-02-21T21:37:15.107484+00:00",
+        "totalXP": 244.8743613208439,
+        "seasonXP": 2.9720921797764162e-43
+      },
+      {
+        "rank": "BRONZE",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": null,
+          "colorMask": 0,
+          "emoji": null,
+          "description": "Full time web3, hear to assist, learn and love every moment!",
+          "name": "koH",
+          "profileImageURL": "ipfs://bafybeigo6dzlt5yxpkcy3u2fsllrimmn6skwv6jmmu7wzpnyvzlzkp5kcu/profile/kohv4punk.png",
+          "username": "koh",
+          "explorerTypeTitle": null
+        },
+        "ethereumAddress": "0x140d3f60ac840571a3e08e218b823094d4715564",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2021-06-07T01:01:10.284887+00:00",
+        "totalXP": 582.4753062469572,
+        "seasonXP": 352.36067097566735
+      },
+      {
+        "rank": "DIAMOND",
+        "role": null,
+        "profile": {
+          "backgroundImageURL": "ipfs://bafybeihrsosfmbb6lxwgo46qvu2wwnocps2blwkosfg4micnpa7jj27hti/background/new stefan octo smol.png",
+          "colorMask": 9,
+          "emoji": "🐙",
+          "description": "MetaGame",
+          "name": "pΞTH  🐙",
+          "profileImageURL": "ipfs://bafybeihlkzzmazx56uxfum6crgfdq3cdc4b4g2oshzedb4gux6r2dgseza/profile/peth - MetaGame.png",
+          "username": "peth",
+          "explorerTypeTitle": "Settler"
+        },
+        "ethereumAddress": "0xb53b0255895c4f9e3a185e484e5b674bccfbc076",
+        "daos": [
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          },
+          {
+            "Dao": {
+              "guild": null
+            }
+          }
+        ],
+        "createdAt": "2020-10-10T06:57:24.403946+00:00",
+        "totalXP": 23354.58723130244,
+        "seasonXP": 149.60741364453955
+      }
+    ]
+  }
+}

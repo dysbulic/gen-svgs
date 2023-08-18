@@ -1,16 +1,14 @@
 "use client"
 
-import styles from './page.module.css'
-import dump from '../../public/MetaFam Players.2023⁄08⁄07@13:47ᴇᴛ.json'
 import Card, { Maybe } from './components/Card'
-import { RefObject, Suspense, useCallback, useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { importer } from 'ipfs-unixfs-importer'
 import toIt from 'browser-readablestream-to-it'
 import { CarWriter } from '@ipld/car/writer'
 import { CID } from 'multiformats/cid'
 import parse from 'html-react-parser'
-import { MTime } from '@ipld/unixfs/src/unixfs'
-import Dots from './components/Dots'
+import dump from '../../public/MetaFam Players.2023⁄09⁄18@15:32ᴇᴛ.json'
+import styles from './page.module.css'
 
 export type Player = typeof dump.data.player[0]
 type File = typeof File
