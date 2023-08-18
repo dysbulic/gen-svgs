@@ -3,13 +3,14 @@
 import styles from './page.module.css'
 import dump from '../../public/MetaFam Players.2023⁄08⁄07@13:47ᴇᴛ.json'
 import Card, { Maybe } from './components/Card'
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { RefObject, Suspense, useCallback, useEffect, useRef, useState } from 'react'
 import { importer } from 'ipfs-unixfs-importer'
 import toIt from 'browser-readablestream-to-it'
 import { CarWriter } from '@ipld/car/writer'
 import { CID } from 'multiformats/cid'
 import parse from 'html-react-parser'
 import { MTime } from '@ipld/unixfs/src/unixfs'
+import Dots from './components/Dots'
 
 export type Player = typeof dump.data.player[0]
 type File = typeof File
@@ -76,9 +77,8 @@ async function svgsToCarIterator(
   return { root, out }
 }
 export default function Home() {
-  const image = useRef<SVGSVGElement>(null)
+  const ready = useRef<Array<boolean>>([])
   const link = useRef<HTMLAnchorElement>(null)
-  const [genIdx, setGenIdx] = useState(0)
   const [viewIdx, setViewIdx] = useState(0)
   const [images, setImages] = (
     useState<Array<NamedContent>>([])
@@ -86,22 +86,24 @@ export default function Home() {
   const { data: { player: players } } = dump
   const [paused, setPaused] = useState(false)
 
-  useEffect(() => {
-    if(genIdx < players.length) {
-      const img = image.current?.outerHTML
+  function setReady(index: number, img: string) {
+    if(ready.current[index]) {
+      console.error({ allreadyReady: { index, players: players.length } })
+    } else {
+      ready.current[index] = true
+
       if(img) {
         const name = (
-          players[genIdx].profile.name
-          ?? players[genIdx].profile.username
-          ?? players[genIdx].ethereumAddress
+          players[index].profile.name
+          ?? players[index].profile.username
+          ?? players[index].ethereumAddress
         )
         setImages((imgs: Array<NamedContent>) => (
           [...imgs, { name: `${name}.svg`, content: img }]
         ))
       }
-      setGenIdx((i: number) => i + 1)
     }
-  }, [genIdx, players, players.length])
+  }
 
   useEffect(() => {
     let timeoutId: Maybe<NodeJS.Timeout> = null
@@ -112,7 +114,6 @@ export default function Home() {
       if(!paused) {
         setViewIdx((i: number) => {
           const val = (i + 1) % (Math.max(1, images.length))
-          console.debug({ i, img: images.length, val })
           return val
         })
       }
@@ -150,9 +151,10 @@ export default function Home() {
           {parse(images[viewIdx].content)}
         </div>
       )}
-      {genIdx < players.length ? (
-        <Card player={players[genIdx]} ref={image}/>
-      ) : (
+      {players.map((player: Player, index: number) => (
+        <Card {...{ player, setReady, index }} style={{ display: 'none' }} key={index}/>
+      ))}
+      {images.length >= players.length && (
         <button onClick={car}>Download CAR</button>
       )}
       <a ref={link} style={{ display: 'none' }}/>
