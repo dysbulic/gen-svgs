@@ -93,11 +93,7 @@ export default function Home() {
       ready.current[index] = true
 
       if(img) {
-        const name = (
-          players[index].profile.name
-          ?? players[index].profile.username
-          ?? players[index].ethereumAddress
-        )
+        const name = players[index].ethereumAddress
         setImages((imgs: Array<NamedContent>) => (
           [...imgs, { name: `${name}.svg`, content: img }]
         ))
