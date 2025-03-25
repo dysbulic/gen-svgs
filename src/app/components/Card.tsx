@@ -1,9 +1,9 @@
 "use client"
 
 import { CID } from 'multiformats/cid'
-import styles from './Card.module.css'
 import React, { useEffect, useRef, useState } from 'react'
 import type { Player } from '../page'
+import styles from './Card.module.css'
 
 export type Maybe<T> = T | null
 export const IPFS_LINK_PATTERN = 'https://w3s.link/ipfs/{cid}/{path}';
@@ -12,9 +12,9 @@ export function httpLink(uri: string): string
 export function httpLink(uri?: null): undefined
 export function httpLink(uri?: string | null): string | undefined
 export function httpLink(uri?: Maybe<string>) {
-  const [, origCID, path] =
-    uri?.match(/^(?:ipfs|dweb):(?:\/\/)?([^/]+)(?:\/(.*))?$/) ?? [];
-
+  const [, origCID, path] = (
+    uri?.match(/^(?:ipfs|dweb):(?:\/\/)?([^/]+)(?:\/(.*))?$/) ?? []
+  )
   try {
     if (origCID) {
       const cid = CID.parse(origCID);
@@ -41,11 +41,16 @@ export function httpLink(uri?: Maybe<string>) {
   return uri ?? undefined; // Image.src won't take null
 };
 
-export async function fetchToDataURL(src: string): Promise<string | undefined> {
-  const [_, proto, host, rest] = /([^/]*\/\/)([^/]+)\/?(.*)$/.exec(src) ?? []
+export async function fetchToDataURL(src: string): (
+  Promise<string | undefined>
+) {
+  const [_, proto, host, rest] = (
+    /([^/]*\/\/)([^/]+)\/?(.*)$/.exec(src) ?? []
+  )
   if(rest) {
-    const parts = rest.split('/').filter((p) => !!p).map(encodeURIComponent)
-    console.debug({ _, proto, host, rest, parts })
+    const parts = (
+      rest.split('/').filter((p) => !!p).map(encodeURIComponent)
+    )
     src = `${proto}${host}/${parts.join('/')}`
   }
 
@@ -64,7 +69,12 @@ export async function fetchToDataURL(src: string): Promise<string | undefined> {
 }
 
 export const Card = (
-  { player: { profile, ethereumAddress, totalXP }, setReady, index, style = {} }:
+  {
+    player: { profile, ethereumAddress, totalXP },
+    setReady,
+    index,
+    style = {}
+  }:
   {
     player: Player,
     setReady: (idx: number, img: string) => void,
@@ -79,6 +89,7 @@ export const Card = (
   const [logoURL, setLogoURL] = useState<string>()
   const [runOnce, setRunOnce] = useState(false)
   const ref = useRef<SVGSVGElement>(null)
+  
   useEffect(() => {
     const image = async () => {
       const [pfp, bg, octo, bgOcto, logo] = (
@@ -103,7 +114,11 @@ export const Card = (
       setLogoURL(logo)
     }
     image()
-  }, [ethereumAddress, profile.backgroundImageURL, profile.profileImageURL])
+  }, [
+    ethereumAddress,
+    profile.backgroundImageURL,
+    profile.profileImageURL
+  ])
 
   useEffect(() => {
     if(pfpURL && bgURL && ref.current) {
@@ -144,7 +159,6 @@ export const Card = (
               transform-style: preserve-3d;
             }
             #front {
-              transform: translate(125px) rotateY(0deg) translate(-125px);
               animation: front-flip 5s infinite;
             }
             #back {
@@ -254,6 +268,8 @@ export const Card = (
           <text x="125" y="315">
             {Math.ceil(totalXP).toLocaleString()} XP
           </text>
+
+
         </g>
       </svg>
     </section>

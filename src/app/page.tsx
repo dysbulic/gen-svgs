@@ -103,7 +103,13 @@ export default function Home() {
     let timeoutId: Maybe<NodeJS.Timeout> = null
     const next = async () => {
       await new Promise((resolve) => {
-        timeoutId = setTimeout(resolve, 1500)
+        const anims = document.getAnimations()
+        const [front, back] = anims.map((a) => a.currentTime)
+        if(typeof front === 'number') {
+          let timeout = (5000 - (front % 5000))
+          console.debug({ front, back, timeout })
+          timeoutId = setTimeout(resolve, timeout)
+        } 
       })
       if(!paused) {
         setViewIdx((i: number) => {
